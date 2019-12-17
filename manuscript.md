@@ -2,7 +2,7 @@
 authors: Clément Violet
 documentclass: report
 classoption: oneside
-dates: false
+dates: Semestre 9
 polyglossia-lang:
   name: french
 geometry:
