@@ -3,7 +3,6 @@ authors: Clément Violet
 documentclass: report
 classoption: oneside
 dates: false
-langue: true
 polyglossia-lang:
   name: french
 geometry:
