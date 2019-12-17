@@ -1,10 +1,19 @@
-## How to use the manuscript template?
+# Synthèse bibliographique
 
-- Click on the "Use this template" button
-- Activate https://travis-ci.org/ for the new repo
-- Add a `$GITHUB_TOKEN` variable to your Travis build, following [these](https://docs.travis-ci.com/user/deployment/pages/) instructions
-- Go to `http://you.github.io/repo-name/` to view the html version, PDF, LaTeX source, and Word document
-- You can add `branchname` to this url to see a specific branch
-- Edit this README
-- Edit the `.zenodo.json` file
-- Edit the `manuscript.md` file
+La version préférée pour faire des commentaire est la version HTML, surlaquelle vous pouvez faire des commentaires en utilisant [hypothes.is](https://hypothes.is/).
+
+
+## Version téléchargeables
+
+[master_pdf]: https://clementviolet.github.io/ms_references_synth/Comment_caractériser_et_inférer_les_interactions.pdf
+[master_tex]: https://clementviolet.github.io/ms_references_synth/Comment_caractériser_et_inférer_les_interactions.tex
+[master_doc]: https://clementviolet.github.io/ms_references_synth/Comment_caractériser_et_inférer_les_interactions.docx
+[master_html]: https://clementviolet.github.io/ms_references_synth/index.html
+[master_travis]: https://travis-ci.org/clementviolet/ms_references_synth.svg?branch=master
+
+**Please note** that the preferred version is the HTML, on which you can
+make comments using [hypothes.is](https://hypothes.is/).
+
+|                 |                                |            HTML            |             TeX            |             PDF            |        Word document        |
+|-----------------|--------------------------------|:--------------------------:|:--------------------------:|:--------------------------:|:---------------------------:|
+| `master` (main) | [![Build Status](https://travis-ci.org/clementviolet/ms_references_synth.svg?branch=master)](https://travis-ci.org/clementviolet/ms_references_synth) | [:blue_book:][master_html] | [:notebook:][master_tex] | [:green_book:][master_pdf] | [:orange_book:][master_doc] |

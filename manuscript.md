@@ -19,7 +19,7 @@ linestretch: 1.5
 
 # Les interactions en écologie
 
-This is a citation: @Martinez2002 -- we can also have citations in brackets [@Martinez2002].
+This is a citation: @Darwin_2004 -- we can also have citations in brackets [@Darwin_2004].
 
 # Caractéristiques des interactions
 
