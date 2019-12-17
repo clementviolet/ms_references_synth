@@ -1,0 +1,2090 @@
+[
+    {
+        "author": [
+            {
+                "family": "Darwin",
+                "given": "Charles"
+            }
+        ],
+        "id": "Darwin_2004",
+        "issued": {
+            "date-parts": [
+                [
+                    2004
+                ]
+            ]
+        },
+        "keyword": "Theoretical ecology, Part 1",
+        "publisher": "Routledge",
+        "title": "On the origin of species, 1859",
+        "type": "book"
+    },
+    {
+        "author": [
+            {
+                "family": "Blanchet",
+                "given": "F Guillaume"
+            },
+            {
+                "family": "Cazelles",
+                "given": "Kevin"
+            },
+            {
+                "family": "Gravel",
+                "given": "Dominique"
+            }
+        ],
+        "id": "Blanchet_2019",
+        "issued": {
+            "date-parts": [
+                [
+                    2019
+                ]
+            ]
+        },
+        "keyword": "Network inference, Part 3",
+        "title": "Co-occurrence is not evidence of ecological interactions",
+        "type": "manuscript"
+    },
+    {
+        "DOI": "10.1007/s12080-015-0281-9",
+        "URL": "https://doi.org/10.1007%2Fs12080-015-0281-9",
+        "author": [
+            {
+                "family": "Cazelles",
+                "given": "K\u00e9vin"
+            },
+            {
+                "family": "Ara\u00fajo",
+                "given": "Miguel B."
+            },
+            {
+                "family": "Mouquet",
+                "given": "Nicolas"
+            },
+            {
+                "family": "Gravel",
+                "given": "Dominique"
+            }
+        ],
+        "container-title": "Theoretical Ecology",
+        "id": "Cazelles_2015",
+        "issue": "1",
+        "issued": {
+            "date-parts": [
+                [
+                    2015,
+                    10
+                ]
+            ]
+        },
+        "keyword": "Part 3",
+        "page": "39-48",
+        "publisher": "Springer Science; Business Media LLC",
+        "title": "A theory for species co-occurrence in interaction networks",
+        "type": "article-journal",
+        "volume": "9"
+    },
+    {
+        "DOI": "10.1111/ddi.12781",
+        "URL": "https://doi.org/10.1111%2Fddi.12781",
+        "author": [
+            {
+                "family": "Talluto",
+                "given": "Matthew V."
+            },
+            {
+                "family": "Mokany",
+                "given": "Karel"
+            },
+            {
+                "family": "Pollock",
+                "given": "Laura J."
+            },
+            {
+                "family": "Thuiller",
+                "given": "Wilfried"
+            }
+        ],
+        "container-title": "Diversity and Distributions",
+        "editor": [
+            {
+                "family": "Heikkinen",
+                "given": "Risto"
+            }
+        ],
+        "id": "Talluto_2018",
+        "issue": "10",
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    6
+                ]
+            ]
+        },
+        "keyword": "Multifaceted Biodiversity Modelling, Beta-div, Part 3, Part 4",
+        "page": "1492-1502",
+        "publisher": "Wiley",
+        "title": "Multifaceted biodiversity modelling at macroecological scales using gaussian processes",
+        "type": "article-journal",
+        "volume": "24"
+    },
+    {
+        "DOI": "10.1016/j.tree.2016.07.009",
+        "URL": "https://doi.org/10.1016%2Fj.tree.2016.07.009",
+        "author": [
+            {
+                "family": "Beissinger",
+                "given": "Steven R."
+            },
+            {
+                "family": "Iknayan",
+                "given": "Kelly J."
+            },
+            {
+                "family": "Guillera-Arroita",
+                "given": "Gurutzeta"
+            },
+            {
+                "family": "Zipkin",
+                "given": "Elise F."
+            },
+            {
+                "family": "Dorazio",
+                "given": "Robert M."
+            },
+            {
+                "family": "Royle",
+                "given": "J. Andrew"
+            },
+            {
+                "family": "K\u00e9ry",
+                "given": "Marc"
+            }
+        ],
+        "container-title": "Trends in Ecology & Evolution",
+        "id": "Beissinger_2016",
+        "issue": "10",
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    10
+                ]
+            ]
+        },
+        "keyword": "LVM, Network inference, Part 3",
+        "page": "736-737",
+        "publisher": "Elsevier BV",
+        "title": "Incorporating imperfect detection into joint models of communities: A response to warton et al.",
+        "type": "article-journal",
+        "volume": "31"
+    },
+    {
+        "DOI": "10.1016/j.jmva.2017.12.002",
+        "URL": "https://doi.org/10.1016%2Fj.jmva.2017.12.002",
+        "author": [
+            {
+                "family": "Popovic",
+                "given": "Gordana C."
+            },
+            {
+                "family": "Hui",
+                "given": "Francis K. C."
+            },
+            {
+                "family": "Warton",
+                "given": "David I."
+            }
+        ],
+        "container-title": "Journal of Multivariate Analysis",
+        "id": "Popovic_2018",
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    5
+                ]
+            ]
+        },
+        "keyword": "GCGM, Part 3",
+        "page": "86-100",
+        "publisher": "Elsevier BV",
+        "title": "A general algorithm for covariance modeling of discrete data",
+        "type": "article-journal",
+        "volume": "165"
+    },
+    {
+        "DOI": "10.32942/osf.io/7z8f9",
+        "URL": "https://doi.org/10.32942%2Fosf.io%2F7z8f9",
+        "author": [
+            {
+                "family": "Keil",
+                "given": "Petr"
+            },
+            {
+                "family": "Wiegand",
+                "given": "Thorsten"
+            },
+            {
+                "family": "T\u00f3th",
+                "given": "Anik\u00f3 B."
+            },
+            {
+                "family": "McGlinn",
+                "given": "Daniel J."
+            },
+            {
+                "family": "Chase",
+                "given": "Jonathan"
+            }
+        ],
+        "id": "Keil_2019",
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    12
+                ]
+            ]
+        },
+        "keyword": "Part 2",
+        "publisher": "Center for Open Science",
+        "title": "Interspecific spatial associations as a facet of biodiversity, and a review of approaches to measure them",
+        "type": "article-journal"
+    },
+    {
+        "DOI": "10.1016/j.biocon.2019.02.001",
+        "URL": "https://doi.org/10.1016%2Fj.biocon.2019.02.001",
+        "author": [
+            {
+                "family": "Montgomery",
+                "given": "Robert A."
+            },
+            {
+                "family": "Moll",
+                "given": "Remington J."
+            },
+            {
+                "family": "Say-Sallaz",
+                "given": "Elise"
+            },
+            {
+                "family": "Valeix",
+                "given": "Marion"
+            },
+            {
+                "family": "Prugh",
+                "given": "Laura R."
+            }
+        ],
+        "container-title": "Biological Conservation",
+        "id": "Montgomery_2019",
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    5
+                ]
+            ]
+        },
+        "keyword": "Theoretical ecology, Part 1",
+        "page": "1-11",
+        "publisher": "Elsevier BV",
+        "title": "A tendency to simplify complex systems",
+        "type": "article-journal",
+        "volume": "233"
+    },
+    {
+        "DOI": "10.1126/science.1157719",
+        "URL": "https://doi.org/10.1126%2Fscience.1157719",
+        "author": [
+            {
+                "family": "Benton",
+                "given": "M. J."
+            }
+        ],
+        "container-title": "Science",
+        "id": "Benton_2009",
+        "issue": "5915",
+        "issued": {
+            "date-parts": [
+                [
+                    2009,
+                    2
+                ]
+            ]
+        },
+        "keyword": "Theoretical ecology, Part 1",
+        "page": "728-732",
+        "publisher": "American Association for the Advancement of Science (AAAS)",
+        "title": "The red queen and the court jester: Species diversity and the role of biotic and abiotic factors through time",
+        "type": "article-journal",
+        "volume": "323"
+    },
+    {
+        "DOI": "10.1111/ecog.01678",
+        "URL": "https://doi.org/10.1111%2Fecog.01678",
+        "author": [
+            {
+                "family": "Rosado",
+                "given": "Bruno H. P."
+            },
+            {
+                "family": "Figueiredo",
+                "given": "Marcos S. L."
+            },
+            {
+                "dropping-particle": "de",
+                "family": "Mattos",
+                "given": "Eduardo A."
+            },
+            {
+                "family": "Grelle",
+                "given": "Carlos E. V."
+            }
+        ],
+        "container-title": "Ecography",
+        "id": "Rosado_2016",
+        "issue": "11",
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    2
+                ]
+            ]
+        },
+        "keyword": "Theoretical ecology, Part 1",
+        "page": "1034-1041",
+        "publisher": "Wiley",
+        "title": "Eltonian shortfall due to the grinnellian view: Functional ecology between the mismatch of niche concepts",
+        "type": "article-journal",
+        "volume": "39"
+    },
+    {
+        "DOI": "10.1016/j.tree.2015.03.014",
+        "URL": "https://doi.org/10.1016%2Fj.tree.2015.03.014",
+        "author": [
+            {
+                "family": "Morales-Castilla",
+                "given": "Ignacio"
+            },
+            {
+                "family": "Matias",
+                "given": "Miguel G."
+            },
+            {
+                "family": "Gravel",
+                "given": "Dominique"
+            },
+            {
+                "family": "Ara\u00fajo",
+                "given": "Miguel B."
+            }
+        ],
+        "container-title": "Trends in Ecology & Evolution",
+        "id": "Morales_Castilla_2015",
+        "issue": "6",
+        "issued": {
+            "date-parts": [
+                [
+                    2015,
+                    6
+                ]
+            ]
+        },
+        "keyword": "Network inference, Part 3",
+        "page": "347-356",
+        "publisher": "Elsevier BV",
+        "title": "Inferring biotic interactions from proxies",
+        "type": "article-journal",
+        "volume": "30"
+    },
+    {
+        "DOI": "10.1016/j.ecolind.2018.02.054",
+        "URL": "https://doi.org/10.1016%2Fj.ecolind.2018.02.054",
+        "author": [
+            {
+                "family": "Jankowska",
+                "given": "Emilia"
+            },
+            {
+                "family": "Troch",
+                "given": "Marleen De"
+            },
+            {
+                "family": "Michel",
+                "given": "Lo\u0131\u0308c N."
+            },
+            {
+                "family": "Lepoint",
+                "given": "Gilles"
+            },
+            {
+                "family": "W\u0142odarska-Kowalczuk",
+                "given": "Maria"
+            }
+        ],
+        "container-title": "Ecological Indicators",
+        "id": "Jankowska_2018",
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    7
+                ]
+            ]
+        },
+        "keyword": "Seagrass, Part 4",
+        "page": "28-37",
+        "publisher": "Elsevier BV",
+        "title": "Modification of benthic food web structure by recovering seagrass meadows, as revealed by trophic markers and mixing models",
+        "type": "article-journal",
+        "volume": "90"
+    },
+    {
+        "DOI": "10.1016/j.jembe.2018.10.004",
+        "URL": "https://doi.org/10.1016%2Fj.jembe.2018.10.004",
+        "author": [
+            {
+                "family": "Jankowska",
+                "given": "Emilia"
+            },
+            {
+                "family": "Michel",
+                "given": "Lo\u0131\u0308c N."
+            },
+            {
+                "family": "Lepoint",
+                "given": "Gilles"
+            },
+            {
+                "family": "W\u0142odarska-Kowalczuk",
+                "given": "Maria"
+            }
+        ],
+        "container-title": "Journal of Experimental Marine Biology and Ecology",
+        "id": "Jankowska_2019",
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    1
+                ]
+            ]
+        },
+        "keyword": "Seagrass, Part 4",
+        "page": "54-63",
+        "publisher": "Elsevier BV",
+        "title": "Stabilizing effects of seagrass meadows on coastal water benthic food webs",
+        "type": "article-journal",
+        "volume": "510"
+    },
+    {
+        "DOI": "10.1098/rspb.2015.2326",
+        "URL": "https://doi.org/10.1098%2Frspb.2015.2326",
+        "author": [
+            {
+                "dropping-particle": "van der",
+                "family": "Zee",
+                "given": "Els M."
+            },
+            {
+                "family": "Angelini",
+                "given": "Christine"
+            },
+            {
+                "family": "Govers",
+                "given": "Laura L."
+            },
+            {
+                "family": "Christianen",
+                "given": "Marjolijn J. A."
+            },
+            {
+                "family": "Altieri",
+                "given": "Andrew H."
+            },
+            {
+                "dropping-particle": "van der",
+                "family": "Reijden",
+                "given": "Karin J."
+            },
+            {
+                "family": "Silliman",
+                "given": "Brian R."
+            },
+            {
+                "dropping-particle": "van de",
+                "family": "Koppel",
+                "given": "Johan"
+            },
+            {
+                "dropping-particle": "van der",
+                "family": "Geest",
+                "given": "Matthijs"
+            },
+            {
+                "dropping-particle": "van",
+                "family": "Gils",
+                "given": "Jan A."
+            },
+            {
+                "dropping-particle": "van der",
+                "family": "Veer",
+                "given": "Henk W."
+            },
+            {
+                "family": "Piersma",
+                "given": "Theunis"
+            },
+            {
+                "dropping-particle": "de",
+                "family": "Ruiter",
+                "given": "Peter C."
+            },
+            {
+                "family": "Olff",
+                "given": "Han"
+            },
+            {
+                "dropping-particle": "van der",
+                "family": "Heide",
+                "given": "Tjisse"
+            }
+        ],
+        "container-title": "Proceedings of the Royal Society B: Biological Sciences",
+        "id": "van_der_Zee_2016",
+        "issue": "1826",
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    3
+                ]
+            ]
+        },
+        "keyword": "Part 4",
+        "page": "20152326",
+        "publisher": "The Royal Society",
+        "title": "How habitat-modifying organisms structure the food web of two coastal ecosystems",
+        "type": "article-journal",
+        "volume": "283"
+    },
+    {
+        "DOI": "https://doi.org/10.1016/j.fooweb.2018.e00100",
+        "URL": "http://www.sciencedirect.com/science/article/pii/S2352249618300223",
+        "author": [
+            {
+                "family": "Majdi",
+                "given": "Nabil"
+            },
+            {
+                "family": "Hette-Tronquart",
+                "given": "Nicolas"
+            },
+            {
+                "family": "Auclair",
+                "given": "Etienne"
+            },
+            {
+                "family": "Bec",
+                "given": "Alexandre"
+            },
+            {
+                "family": "Chouvelon",
+                "given": "Tiphaine"
+            },
+            {
+                "family": "Cognie",
+                "given": "Bruno"
+            },
+            {
+                "family": "Danger",
+                "given": "Michael"
+            },
+            {
+                "family": "Decottignies",
+                "given": "Priscilla"
+            },
+            {
+                "family": "Dessier",
+                "given": "Aur\u00e9lie"
+            },
+            {
+                "family": "Desvilettes",
+                "given": "Christian"
+            },
+            {
+                "family": "Dubois",
+                "given": "Stanislas"
+            },
+            {
+                "family": "Dupuy",
+                "given": "Christine"
+            },
+            {
+                "family": "Fritsch",
+                "given": "Cl\u00e9mentine"
+            },
+            {
+                "family": "Gaucherel",
+                "given": "C\u00e9dric"
+            },
+            {
+                "family": "Hedde",
+                "given": "Micka\u00ebl"
+            },
+            {
+                "family": "Jabot",
+                "given": "Franck"
+            },
+            {
+                "family": "Lefebvre",
+                "given": "Sebastien"
+            },
+            {
+                "family": "Marzloff",
+                "given": "Martin P."
+            },
+            {
+                "family": "Pey",
+                "given": "Benjamin"
+            },
+            {
+                "family": "Peyrard",
+                "given": "Nathalie"
+            },
+            {
+                "family": "Powolny",
+                "given": "Thibaut"
+            },
+            {
+                "family": "Sabbadin",
+                "given": "R\u00e9gis"
+            },
+            {
+                "family": "Th\u00e9bault",
+                "given": "Elisa"
+            },
+            {
+                "family": "Perga",
+                "given": "Marie-Elodie"
+            }
+        ],
+        "container-title": "Food Webs",
+        "id": "Majdi_2018",
+        "issued": {
+            "date-parts": [
+                [
+                    2018
+                ]
+            ]
+        },
+        "keyword": "Network analysis, Network inference, Part 3",
+        "page": "e00100",
+        "title": "There\u2019s no harm in having too much: A comprehensive toolbox of methods in trophic ecology",
+        "type": "article-journal",
+        "volume": "17"
+    },
+    {
+        "DOI": "10.1086/652373",
+        "URL": "https://doi.org/10.1086%2F652373",
+        "annote": "Part 1.",
+        "author": [
+            {
+                "family": "Vellend",
+                "given": "Mark"
+            }
+        ],
+        "container-title": "The Quarterly Review of Biology",
+        "id": "Vellend_2010",
+        "issue": "2",
+        "issued": {
+            "date-parts": [
+                [
+                    2010,
+                    6
+                ]
+            ]
+        },
+        "keyword": "Theoretical ecology, Community Ecology, Part 1",
+        "page": "183-206",
+        "publisher": "University of Chicago Press",
+        "title": "Conceptual synthesis in community ecology",
+        "type": "article-journal",
+        "volume": "85"
+    },
+    {
+        "DOI": "10.1111/2041-210x.13247",
+        "URL": "https://doi.org/10.1111%2F2041-210x.13247",
+        "author": [
+            {
+                "family": "Popovic",
+                "given": "Gordana C."
+            },
+            {
+                "family": "Warton",
+                "given": "David I."
+            },
+            {
+                "family": "Thomson",
+                "given": "Fiona J."
+            },
+            {
+                "family": "Hui",
+                "given": "Francis K. C."
+            },
+            {
+                "family": "Moles",
+                "given": "Angela T."
+            }
+        ],
+        "container-title": "Methods in Ecology and Evolution",
+        "editor": [
+            {
+                "family": "Murrell",
+                "given": "David"
+            }
+        ],
+        "id": "Popovic_2019",
+        "issue": "9",
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    7
+                ]
+            ]
+        },
+        "keyword": "GCGM, Network inference, Part 3",
+        "page": "1571-1583",
+        "publisher": "Wiley",
+        "title": "Untangling direct species associations from indirect mediator species effects with graphical models",
+        "type": "article-journal",
+        "volume": "10"
+    },
+    {
+        "DOI": "10.1111/2041-210x.12236",
+        "URL": "https://doi.org/10.1111%2F2041-210x.12236",
+        "annote": "Explique que les mod\u00e8les mieux que les ordinations.",
+        "author": [
+            {
+                "family": "Hui",
+                "given": "Francis K. C."
+            },
+            {
+                "family": "Taskinen",
+                "given": "Sara"
+            },
+            {
+                "family": "Pledger",
+                "given": "Shirley"
+            },
+            {
+                "family": "Foster",
+                "given": "Scott D."
+            },
+            {
+                "family": "Warton",
+                "given": "David I."
+            }
+        ],
+        "container-title": "Methods in Ecology and Evolution",
+        "editor": [
+            {
+                "family": "O\\textquotesingleHara",
+                "given": "Robert B."
+            }
+        ],
+        "id": "Hui_2014",
+        "issue": "4",
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    8
+                ]
+            ]
+        },
+        "keyword": "Network analysis, Part 3",
+        "page": "399-411",
+        "publisher": "Wiley",
+        "title": "Model-based approaches to unconstrained ordination",
+        "type": "article-journal",
+        "volume": "6"
+    },
+    {
+        "DOI": "10.7717/peerj.3644",
+        "URL": "https://peerj.com/articles/3644",
+        "annote": "Utitisation de KNN pour voir si une esp\u00e8ce mange l\u2019autre. Moins performant que dans beauchene et al. Par contre RF tr\u00e8s int\u00e9ressant pour pr\u00e9dire int\u00e9raction et non-int\u00e9ractions.",
+        "author": [
+            {
+                "family": "Desjardins-Proulx",
+                "given": "Philippe"
+            },
+            {
+                "family": "Laigle",
+                "given": "Idaline"
+            },
+            {
+                "family": "Poisot",
+                "given": "Timoth\u00e9e"
+            },
+            {
+                "family": "Gravel",
+                "given": "Dominique"
+            }
+        ],
+        "container-title": "PeerJ",
+        "id": "Desjardins-Proulx_2017",
+        "issue": "2000",
+        "issued": {
+            "date-parts": [
+                [
+                    2017
+                ]
+            ]
+        },
+        "keyword": "Machine learning, Network inference, Part 3",
+        "page": "e3644",
+        "title": "<span class=\"nocase\">Ecological interactions and the Netflix problem</span>",
+        "type": "article-journal",
+        "volume": "5"
+    },
+    {
+        "DOI": "10.1101/001677",
+        "ISBN": "0000000207355",
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/001677",
+        "author": [
+            {
+                "family": "Poisot",
+                "given": "T."
+            },
+            {
+                "family": "Stouffer",
+                "given": "D. B."
+            },
+            {
+                "family": "Gravel",
+                "given": "D."
+            }
+        ],
+        "container-title": "Oikos",
+        "id": "Poisot_2014",
+        "issue": "3",
+        "issued": {
+            "date-parts": [
+                [
+                    2014,
+                    1
+                ]
+            ]
+        },
+        "keyword": "Network Analysis, Part 2",
+        "page": "243-251",
+        "publisher": "Cold Spring Harbor Laboratory Press",
+        "title": "<span class=\"nocase\">Beyond species: why ecological interactions vary through space and time</span>",
+        "type": "article-journal",
+        "volume": "124"
+    },
+    {
+        "annote": "Utilisation de KNN pour pr\u00e9\u00e9dire les int\u00e9\u00e9ractions trophiques. Bas\u00e9\u00e9s sur la ressemblance taxonomique.On peut modifier ce mod\u00e8\u00e8le pour y inclure des traits et des densit\u00e9\u00e9s de pop pour qu\u2019il soit meilleur.",
+        "author": [
+            {
+                "family": "Beauchesne",
+                "given": "D."
+            },
+            {
+                "family": "Desjardins-Proulx",
+                "given": "P."
+            },
+            {
+                "family": "Archambault",
+                "given": "P."
+            },
+            {
+                "family": "Gravel",
+                "given": "D."
+            }
+        ],
+        "container-title": "Vie et Milieu",
+        "id": "Beauchesne_2017b",
+        "issue": "3-4",
+        "issued": {
+            "date-parts": [
+                [
+                    2017
+                ]
+            ]
+        },
+        "keyword": "Machine learning, Network inference, Part 3",
+        "page": "333-342",
+        "title": "<span class=\"nocase\">Thinking outside the box - Predicting biotic interactions in data-poor environments</span>",
+        "type": "article-journal",
+        "volume": "66"
+    },
+    {
+        "DOI": "10.1111/2041-210X.12468",
+        "URL": "https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.12468",
+        "annote": "Pleins de raisons font que les esp\u00e8\u00e8ces n\u2019int\u00e9\u00e9ragissent pas entre elles. N\u00e9\u00e9cessit\u00e9\u00e9 de changer la question \"est-ce qu\u2019elles int\u00e9\u00e9ragissent\" \u00e0\u00e0 \"quelle est leur chance d\u2019int\u00e9\u00e9ragire\".Tout nouvelles d\u00e9\u00e9finitions des propri\u00e9\u00e9t\u00e9\u00e9s des r\u00e9\u00e9seaux.Attention, consid\u00e8\u00e8re ind\u00e9\u00e9pendance alors que pas le cas en r\u00e9\u00e9alit\u00e9\u00e9.",
+        "author": [
+            {
+                "family": "Poisot",
+                "given": "Timoth\u00e9e"
+            },
+            {
+                "family": "Cirtwill",
+                "given": "Alyssa R."
+            },
+            {
+                "family": "Cazelles",
+                "given": "K\u00e9vin"
+            },
+            {
+                "family": "Gravel",
+                "given": "Dominique"
+            },
+            {
+                "family": "Fortin",
+                "given": "Marie-Jos\u00e9e"
+            },
+            {
+                "family": "Stouffer",
+                "given": "Daniel B."
+            }
+        ],
+        "container-title": "Methods in Ecology and Evolution",
+        "id": "Poisot_2015",
+        "issue": "3",
+        "issued": {
+            "date-parts": [
+                [
+                    2016
+                ]
+            ]
+        },
+        "keyword": "Network analysis, Part 2",
+        "page": "303-312",
+        "title": "The structure of probabilistic networks",
+        "type": "article-journal",
+        "volume": "7"
+    },
+    {
+        "DOI": "10.1111/ele.12955",
+        "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.12955",
+        "author": [
+            {
+                "family": "Cirtwill",
+                "given": "Alyssa R."
+            },
+            {
+                "family": "Ekl\u00f6f",
+                "given": "Anna"
+            }
+        ],
+        "container-title": "Ecology Letters",
+        "id": "Cirtwill_2018",
+        "issue": "6",
+        "issued": {
+            "date-parts": [
+                [
+                    2018
+                ]
+            ]
+        },
+        "keyword": "Network analysis, Indirect interactions, Part 3, Part 4",
+        "page": "875-884",
+        "title": "Feeding environment and other traits shape species\u2019 roles in marine food webs",
+        "type": "article-journal",
+        "volume": "21"
+    },
+    {
+        "DOI": "10.1098/rspb.2015.2702",
+        "URL": "https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2015.2702",
+        "annote": "Moyen de pr\u00e9\u00e9dire les int\u00e9\u00e9ractions dans les r\u00e9\u00e9seaux mal connus,The matching term aims to quantify assortative structure in who makes links with whom, whereas the centrality term captures variation in the number of links that nodes make.",
+        "author": [
+            {
+                "family": "Rohr",
+                "given": "Rudolf P."
+            },
+            {
+                "family": "Naisbit",
+                "given": "Russell E."
+            },
+            {
+                "family": "Mazza",
+                "given": "Christian"
+            },
+            {
+                "family": "Bersier",
+                "given": "Louis-F\u00e9lix"
+            }
+        ],
+        "container-title": "Proceedings of the Royal Society B: Biological Sciences",
+        "id": "Rohr_2016",
+        "issue": "1824",
+        "issued": {
+            "date-parts": [
+                [
+                    2016
+                ]
+            ]
+        },
+        "keyword": "Network analysis, Part 3",
+        "page": "20152702",
+        "title": "Matching-centrality decomposition and the forecasting of new links in networks",
+        "type": "article-journal",
+        "volume": "283"
+    },
+    {
+        "DOI": "10.1890/13-1424.1",
+        "URL": "https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/13-1424.1",
+        "annote": "Beaucoup d\u2019int\u00e9\u00e9raction autre que pr\u00e9\u00e9dations. Id\u00e9\u00e9e que le r\u00e9\u00e9seau trophique seule ne permet pas de d\u00e9\u00e9terminer la stabilit\u00e9\u00e9 des communaut\u00e9\u00e9s \u00e9\u00e9cologiques.+ de liens non trophiques que de liens trophiques \u00e0\u00e0 la base des food webs. La majorit\u00e9\u00e9 des esp\u00e8\u00e8ces ont beaucoup d\u2019int\u00e9\u00e9ractions non-trophiques.Les esp\u00e8\u00e8ces avec le plus d\u2019int\u00e9\u00e9ractions trophiques int\u00e9\u00e9ragissent par des int\u00e9\u00e9ractions non trophiques.Les arbres de r\u00e9\u00e9gr\u00e9\u00e9ssion montrent que les int\u00e9\u00e9ractions non trophiques sont initi\u00e9\u00e9s par les esp\u00e8\u00e8ces sessiles et que les int\u00e9\u00e9ractions trophiques par les vagiles. The negative non-trophic interactions usually involved a sessile species impacting another sessile speciesTrophic links occurs predators larger than their prey. Positive non-trophic interactions are initiated by small species from low trophic levels with high vulnerability and a low generality (i.e., which do not eat many species, but are eaten by many consumers). Negative nontrophic interactions are initiated by small species from low trophic levels on target species with similar characteristics.Concluison : Non-trophic interactions were more than twice as abundant as trophic ones. The structure of those non-trophic links was nonrandom both alone and with respect to trophic structure The link degree distribution differed systematically between positive vs. negative non-trophic interactions The occurrence of positive and negative non-trophic interactions was relatively well predicted by trophic link structure and simple species attributesthe underlying ecological mechanisms: competition for space is not species specific, while many positive nontrophic interactions are restricted within specific groups of species.",
+        "author": [
+            {
+                "family": "K\u00e9fi",
+                "given": "Sonia"
+            },
+            {
+                "family": "Berlow",
+                "given": "Eric L."
+            },
+            {
+                "family": "Wieters",
+                "given": "Evie A."
+            },
+            {
+                "family": "Joppa",
+                "given": "Lucas N."
+            },
+            {
+                "family": "Wood",
+                "given": "Spencer A."
+            },
+            {
+                "family": "Brose",
+                "given": "Ulrich"
+            },
+            {
+                "family": "Navarrete",
+                "given": "Sergio A."
+            }
+        ],
+        "container-title": "Ecology",
+        "id": "Kefi_2015",
+        "issue": "1",
+        "issued": {
+            "date-parts": [
+                [
+                    2015
+                ]
+            ]
+        },
+        "keyword": "Networks in ecology, Benthos, Part 4",
+        "page": "291-303",
+        "title": "Network structure beyond food webs: Mapping non-trophic and trophic interactions on chilean rocky shores",
+        "type": "article-journal",
+        "volume": "96"
+    },
+    {
+        "DOI": "10.1111/oik.05670",
+        "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/oik.05670",
+        "annote": "D\u00e9\u00e9finition des int\u00e9\u00e9ractions indirecte (voir ref).Utilisation des motifs pour voir quels sont les int\u00e9\u00e9raction indirects.",
+        "author": [
+            {
+                "family": "Simmons",
+                "given": "Benno I."
+            },
+            {
+                "family": "Cirtwill",
+                "given": "Alyssa R."
+            },
+            {
+                "family": "Baker",
+                "given": "Nick J."
+            },
+            {
+                "family": "Wauchope",
+                "given": "Hannah S."
+            },
+            {
+                "family": "Dicks",
+                "given": "Lynn V."
+            },
+            {
+                "family": "Stouffer",
+                "given": "Daniel B."
+            },
+            {
+                "family": "Sutherland",
+                "given": "William J."
+            }
+        ],
+        "container-title": "Oikos",
+        "id": "Simmons_2019",
+        "issue": "2",
+        "issued": {
+            "date-parts": [
+                [
+                    2019
+                ]
+            ]
+        },
+        "keyword": "Network analysis, Indirect interactions, Part 3",
+        "page": "154-170",
+        "title": "Motifs in bipartite ecological networks: Uncovering indirect interactions",
+        "type": "article-journal",
+        "volume": "128"
+    },
+    {
+        "DOI": "10.1002/ecy.2142",
+        "URL": "https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.2142",
+        "annote": "On peut utiliser les r\u00e9\u00e9seaux de co-occurence comme proxy pour inf\u00e9\u00e9rer les int\u00e9\u00e9raction (lire les ref sur le sujet).Int\u00e9\u00e9r\u00ea\u00eat d\u2019utiliser l\u2019abondance, les variables abiotiques pour pr\u00e9\u00e9dire les int\u00e9\u00e9ractions.Mais les donn\u00e9\u00e9es de pr\u00e9\u00e9sence-absence seule sont merdiques.",
+        "author": [
+            {
+                "family": "Freilich",
+                "given": "Mara A."
+            },
+            {
+                "family": "Wieters",
+                "given": "Evie"
+            },
+            {
+                "family": "Broitman",
+                "given": "Bernardo R."
+            },
+            {
+                "family": "Marquet",
+                "given": "Pablo A."
+            },
+            {
+                "family": "Navarrete",
+                "given": "Sergio A."
+            }
+        ],
+        "container-title": "Ecology",
+        "id": "Freilich_2018",
+        "issue": "3",
+        "issued": {
+            "date-parts": [
+                [
+                    2018
+                ]
+            ]
+        },
+        "keyword": "Networks in ecology, Benthos, Part 3, Part 4",
+        "page": "690-699",
+        "title": "Species co-occurrence networks: Can they reveal trophic and non-trophic interactions in ecological communities?",
+        "type": "article-journal",
+        "volume": "99"
+    },
+    {
+        "DOI": "10.1111/brv.12433",
+        "URL": "http://dx.doi.org/10.1111/brv.12433",
+        "annote": "Comment sont charact\u00e9ris\u00e9s les int\u00e9ractions par les outils de graphes.",
+        "author": [
+            {
+                "family": "Delmas",
+                "given": "Eva"
+            },
+            {
+                "family": "Besson",
+                "given": "Mathilde"
+            },
+            {
+                "family": "Brice",
+                "given": "Marie-H\u00e9l\u00e8ne"
+            },
+            {
+                "family": "Burkle",
+                "given": "Laura A."
+            },
+            {
+                "family": "Dalla Riva",
+                "given": "Giulio V."
+            },
+            {
+                "family": "Fortin",
+                "given": "Marie-Jos\u00e9e"
+            },
+            {
+                "family": "Gravel",
+                "given": "Dominique"
+            },
+            {
+                "family": "Guimar\u00e3es",
+                "given": "Paulo R."
+            },
+            {
+                "family": "Hembry",
+                "given": "David H."
+            },
+            {
+                "family": "Newman",
+                "given": "Erica A."
+            },
+            {
+                "dropping-particle": "et",
+                "family": "al."
+            }
+        ],
+        "container-title": "Biological Reviews",
+        "id": "Delmas_2018",
+        "issue": "1",
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    6
+                ]
+            ]
+        },
+        "keyword": "Network analysis, Part 2",
+        "page": "16-36",
+        "publisher": "Wiley",
+        "title": "Analysing ecological networks of species interactions",
+        "type": "article-journal",
+        "volume": "94"
+    },
+    {
+        "DOI": "10.1111/ele.12081",
+        "URL": "http://dx.doi.org/10.1111/ele.12081",
+        "annote": "Si les deux esp\u00e8\u00e8ces ont les m\u00ea\u00eames traits, alors une interaction est possible. Sinon, l\u2019interaction est impossible - ce qu\u2019on appelle un \" lien interdit \".De toute \u00e9\u00e9vidence, plusieurs traits doivent correspondre pour qu\u2019une interaction se produise. Ainsi, nous pouvons imaginer des esp\u00e8\u00e8ces comme inclus dans un espace multidimensionnel, o\u00f9\u00f9 chaque axe repr\u00e9\u00e9sente un trait donn\u00e9\u00e9 (p. ex. taille, couleur, mobilit\u00e9\u00e9, ph\u00e9\u00e9nologie) et o\u00f9\u00f9 chaque esp\u00e8\u00e8ce interagit avec toutes les autres qui se trouvent dans un certain volume de cet espace. C\u2019est l\u2019id\u00e9\u00e9e famili\u00e8\u00e8re de la niche \u00e9\u00e9cologique multidimensionnelle cr\u00e9\u00e9\u00e9\u00e9e par Grinell, Elton et Hutchinson.Il est important de conna\u0131\u0302\u0131\u0302tre le nombre maximum de dimensions n\u00e9\u00e9cessaires pour d\u00e9\u00e9crire pleinement les r\u00e9\u00e9seaux \u00e9\u00e9cologiques complexes, car la th\u00e9\u00e9orie \u00e9\u00e9cologique actuelle repose implicitement sur l\u2019hypoth\u00e8\u00e8se que peu de dimensions sont n\u00e9\u00e9cessaires : les esp\u00e8\u00e8ces sont en concurrence pour quelques facteurs limitants dans les mod\u00e8\u00e8les expliquant la coexistence \u00e0\u00e0 un niveau trophique unique.La recherche de la dimensionnalit\u00e9\u00e9 des r\u00e9\u00e9seaux \u00e9\u00e9cologiques a d\u00e9\u00e9j\u00e0\u00e0 pris deux directions : l\u2019\u00e9\u00e9tude du nombre d\u2019axes-niches et l\u2019identification des traits des esp\u00e8\u00e8ces qui expliquent le mieux les interactions observ\u00e9\u00e9es.Tout d\u2019abord, nous mesurons combien de dimensions id\u00e9\u00e9alis\u00e9\u00e9es sont n\u00e9\u00e9cessaires pour d\u00e9\u00e9crire compl\u00e8\u00e8tement la structure d\u2019un vaste ensemble de r\u00e9\u00e9seaux empiriques. Deuxi\u00e8\u00e8mement, pour un sous-ensemble des r\u00e9\u00e9seaux qui comprennent des traits pour toutes les esp\u00e8\u00e8ces, nous estimons la fraction des liens expliqu\u00e9\u00e9e par chaque trait ou une combinaison de traits.Pour l\u2019estimation de la limite sup\u00e9\u00e9rieure de la dimensionnalit\u00e9\u00e9 l\u2019espace consid\u00e9\u00e9rer est de dimension n-trait. Le nombre total de param\u00e8\u00e8tres requis pour le mod\u00e8\u00e8le est de trois (min, max, et valeur observ\u00e9\u00e9e)Pour S esp\u00e8\u00e8ces, il y a S! combinaison possibles en une dimension, (S!)\\^2 en deux et (S!)\\^n en n dimension. Ceci rend la t\u00e2\u00e2che de d\u00e9\u00e9terminer la dimension exacte de grands r\u00e9\u00e9seaux impossible \u00e0\u00e0 calculerNous constatons que trois traits empiriques peuvent expliquer environ un tiers des interactions dans le pire des cas. Un seul trait peut pr\u00e9\u00e9dire une proportion relativement importante de la structure du r\u00e9\u00e9seau.Nos r\u00e9\u00e9sultats montrent que les r\u00e9\u00e9seaux \u00e9\u00e9cologiques sont structur\u00e9\u00e9s selon quelques dimensions, le choix du mod\u00e8\u00e8le sugg\u00e9\u00e9rant que quatre dimensions ou moins peuvent expliquer en grande partie la structure du r\u00e9\u00e9seau.Nos r\u00e9\u00e9sultats peuvent \u00ea\u00eatre compar\u00e9\u00e9s au nombre minimum de dimensions n\u00e9\u00e9cessaires pour expliquer la structure d\u2019un r\u00e9\u00e9seau en th\u00e9\u00e9orie des graphes : la boxicit\u00e9\u00e9 du graphique. Comme la boxicit\u00e9\u00e9 d\u2019un graphique dirig\u00e9\u00e9 doit \u00ea\u00eatre inf\u00e9\u00e9rieure \u00e0\u00e0 celle de sa version non dirig\u00e9\u00e9e, cela devrait amener \u00e0\u00e0 surestimer la dimension r\u00e9\u00e9elle D.The proportion of interactions that can be explained using empirical traits varies considerably between networks. This can be ascribed mainly to two factors. First, networks belong to different types describing : \u2013plant-pollinator, \u2013parasitoid, \u2013herbivore \u2013les interactions entre pr\u00e9\u00e9dateurs et proies. Deuxi\u00e8\u00e8mement, les traits recueillis varient d\u2019un r\u00e9\u00e9seau \u00e0\u00e0 l\u2019autre, tant en nombre qu\u2019en identit\u00e9\u00e9.Pour les r\u00e9\u00e9seaux alimentaires qui comprennent une grande vari\u00e9\u00e9t\u00e9\u00e9 d\u2019organismes, la taille corporelle figure toujours parmi les caract\u00e8\u00e8res choisis. Toutefois, pour deux des six r\u00e9\u00e9seaux trophiques, des traits \" simples \" (c.-\u00e0\u00e0-d. des traits cat\u00e9\u00e9goriques comme la mobilit\u00e9\u00e9 et le m\u00e9\u00e9tabolisme) ont \u00e9\u00e9t\u00e9\u00e9 ajout\u00e9\u00e9s. ) donnent en fait un chevauchement plus \u00e9\u00e9lev\u00e9\u00e9 entre les interactions pr\u00e9\u00e9vues et les interactions empiriques.En r\u00e9\u00e9sum\u00e9\u00e9, l\u2019analyse des traits empiriques r\u00e9\u00e9v\u00e8\u00e8le que (1) la taille corporelle est importante, mais que la proportion des interactions qui peuvent \u00ea\u00eatre expliqu\u00e9\u00e9es par ce trait augmente consid\u00e9\u00e9rablement lorsqu\u2019on l\u2019utilise en combinaison avec d\u2019autres traits, (2) la combinaison des perspectives des consommateurs et des ressources, c\u2019est-\u00e0\u00e0-dire les traits correspondants, peut am\u00e9\u00e9liorer consid\u00e9\u00e9rablement la pr\u00e9\u00e9cision des pr\u00e9\u00e9visions et (3) diff\u00e9\u00e9rents traits sont s\u00e9\u00e9lectionn\u00e9\u00e9s dans diff\u00e9\u00e9rents types de r\u00e9\u00e9seaux, ce qui souligne que diff\u00e9\u00e9rents Les types de r\u00e9\u00e9seaux n\u00e9\u00e9cessitent des approches distinctes en mati\u00e8\u00e8re de mod\u00e9\u00e9lisation.",
+        "author": [
+            {
+                "family": "Ekl\u00f6f",
+                "given": "Anna"
+            },
+            {
+                "family": "Jacob",
+                "given": "Ute"
+            },
+            {
+                "family": "Kopp",
+                "given": "Jason"
+            },
+            {
+                "family": "Bosch",
+                "given": "Jordi"
+            },
+            {
+                "family": "Castro-Urgal",
+                "given": "Roc\u0131\u0301o"
+            },
+            {
+                "family": "Chacoff",
+                "given": "Natacha P."
+            },
+            {
+                "family": "Dalsgaard",
+                "given": "Bo"
+            },
+            {
+                "dropping-particle": "de",
+                "family": "Sassi",
+                "given": "Claudio"
+            },
+            {
+                "family": "Galetti",
+                "given": "Mauro"
+            },
+            {
+                "family": "Guimar\u00e3es",
+                "given": "Paulo R."
+            },
+            {
+                "dropping-particle": "et",
+                "family": "al."
+            }
+        ],
+        "container-title": "Ecology Letters",
+        "editor": [
+            {
+                "family": "Dunne",
+                "given": "JenniferEditor"
+            }
+        ],
+        "id": "Eklof_2013",
+        "issue": "5",
+        "issued": {
+            "date-parts": [
+                [
+                    2013,
+                    2
+                ]
+            ]
+        },
+        "keyword": "Networks in ecology, Part 1, Part 2",
+        "page": "577-583",
+        "publisher": "Wiley",
+        "title": "The dimensionality of ecological networks",
+        "type": "article-journal",
+        "volume": "16"
+    },
+    {
+        "DOI": "10.1111/2041-210X.13180",
+        "URL": "https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.13180",
+        "annote": "Abstract 1.Descriptions of ecological networks typically assume that the same interspecific interactions occur each time a community is observed. This contrasts with the known stochasticity of ecological communities: community composition, species abundances, and link structure all vary in space and time. Moreover, finite sampling generates variation in the set of interactions actually observed. For interactions that have not been observed, most data sets will not contain enough information for the ecologist to be con\\_dent that unobserved interactions truly did not occur. 2. Here we develop the conceptual and analytical tools needed to capture uncertainty in the estimation of pairwise interactions. To define the problem, we identify the different contributions to the uncertainty of an interaction. We then outline a framework to quantify the uncertainty around each interaction by combining data on observed co-occurrences with prior knowledge. We illustrate this framework using perhaps the most extensively sampled network to date. 3. We found significant uncertainty in estimates for the probability of most pairwise interactions. This uncertainty can, however, be constrained with informative priors. This uncertainty scaled up to summary measures of network structure such as connectance and nestedness. Even with informative priors, we are likely to miss many interactions that may occur rarely or under different local conditions. 4. Overall, we demonstrate the importance of acknowledging the uncertainty inherent in network studies, and the utility of treating interactions as probabilities in pinpointing areas where more study is needed. Most importantly, we stress that networks are best thought of as systems constructed from random variables, the stochastic nature of which must be acknowledged for an accurate representation. Doing so will fundamentally change networks analyses and yield greater realism. This article is protected by copyright. All rights reserved.",
+        "author": [
+            {
+                "family": "Cirtwill",
+                "given": "Alyssa R."
+            },
+            {
+                "family": "Ekl\u04e7f",
+                "given": "Anna"
+            },
+            {
+                "family": "Roslin",
+                "given": "Tomas"
+            },
+            {
+                "family": "Wootton",
+                "given": "Kate"
+            },
+            {
+                "family": "Gravel",
+                "given": "Dominique"
+            }
+        ],
+        "container-title": "Methods in Ecology and Evolution",
+        "id": "Cirtwill_2019",
+        "issued": {
+            "date-parts": [
+                [
+                    2019
+                ]
+            ]
+        },
+        "keyword": "Bayesian networks, Part 3",
+        "title": "A quantitative framework for investigating the reliability of empirical network construction",
+        "type": "article-journal"
+    },
+    {
+        "DOI": "10.3389/fevo.2019.00103",
+        "URL": "http://dx.doi.org/10.3389/fevo.2019.00103",
+        "author": [
+            {
+                "family": "Ponisio",
+                "given": "Lauren C."
+            },
+            {
+                "family": "Valdovinos",
+                "given": "Fernanda S."
+            },
+            {
+                "family": "Allhoff",
+                "given": "Korinna T."
+            },
+            {
+                "family": "Gaiarsa",
+                "given": "Mar\u0131\u0301lia P."
+            },
+            {
+                "family": "Barner",
+                "given": "Allison"
+            },
+            {
+                "family": "Guimar\u00e3es",
+                "given": "Paulo R."
+            },
+            {
+                "family": "Hembry",
+                "given": "David H."
+            },
+            {
+                "family": "Morrison",
+                "given": "Beth"
+            },
+            {
+                "family": "Gillespie",
+                "given": "Rosemary"
+            }
+        ],
+        "container-title": "Frontiers in Ecology and Evolution",
+        "id": "Ponisio_2019",
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    4
+                ]
+            ]
+        },
+        "keyword": "Networks in ecology",
+        "publisher": "Frontiers Media SA",
+        "title": "A network perspective for community assembly",
+        "type": "article-journal",
+        "volume": "7"
+    },
+    {
+        "DOI": "10.1111/2041-210x.13329",
+        "URL": "https://doi.org/10.1111%2F2041-210x.13329",
+        "author": [
+            {
+                "family": "Pichler",
+                "given": "Maximilian"
+            },
+            {
+                "family": "Boreux",
+                "given": "Virginie"
+            },
+            {
+                "family": "Klein",
+                "given": "Alexandra-Maria"
+            },
+            {
+                "family": "Schleuning",
+                "given": "Matthias"
+            },
+            {
+                "family": "Hartig",
+                "given": "Florian"
+            }
+        ],
+        "container-title": "Methods in Ecology and Evolution",
+        "editor": [
+            {
+                "family": "Carvalheiro",
+                "given": "Luisa"
+            }
+        ],
+        "id": "Pichler_2019",
+        "issued": {
+            "date-parts": [
+                [
+                    2019,
+                    11
+                ]
+            ]
+        },
+        "keyword": "Machine learning, Network inference, Part 3",
+        "publisher": "Wiley",
+        "title": "Machine learning algorithms to infer trait-matching and predict species interactions in ecological networks",
+        "type": "article-journal"
+    },
+    {
+        "DOI": "10.1111/2041-210X.12514",
+        "URL": "https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.12514",
+        "annote": "Mise en pratique de l\u2019article de Warton et al. (2015) en utilisant les MCMC et mod\u00e8les hi\u00e9rachiques bay\u00e9siens.",
+        "author": [
+            {
+                "family": "Hui",
+                "given": "Francis K. C."
+            }
+        ],
+        "container-title": "Methods in Ecology and Evolution",
+        "id": "Hui_2016",
+        "issue": "6",
+        "issued": {
+            "date-parts": [
+                [
+                    2016
+                ]
+            ]
+        },
+        "keyword": "LVM, R package, Network inference, Part 3, Part 4",
+        "page": "744-750",
+        "title": "Boral \u2013 bayesian ordination and regression analysis of multivariate abundance data in r",
+        "type": "article-journal",
+        "volume": "7"
+    },
+    {
+        "DOI": "10.1098/rspb.2017.0768",
+        "URL": "https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2017.0768",
+        "annote": "Suite du pr\u00e9c\u00e9dent article d\u2019Ovaskainen. Framework complet qui prend en compte \u00e9galement les traits et la phylog\u00e9nie",
+        "author": [
+            {
+                "family": "Ovaskainen",
+                "given": "Otso"
+            },
+            {
+                "family": "Tikhonov",
+                "given": "Gleb"
+            },
+            {
+                "family": "Dunson",
+                "given": "David"
+            },
+            {
+                "family": "Gr\u00f8tan",
+                "given": "Vidar"
+            },
+            {
+                "family": "Engen",
+                "given": "Steinar"
+            },
+            {
+                "family": "S\u00e6ther",
+                "given": "Bernt-Erik"
+            },
+            {
+                "family": "Abrego",
+                "given": "Nerea"
+            }
+        ],
+        "container-title": "Proceedings of the Royal Society B: Biological Sciences",
+        "id": "Ovaskainen_2017_procB",
+        "issue": "1855",
+        "issued": {
+            "date-parts": [
+                [
+                    2017
+                ]
+            ]
+        },
+        "keyword": "HMSC, Network inference, Part 3",
+        "page": "20170768",
+        "title": "How are species interactions structured in species-rich communities? A new method for analysing time-series data",
+        "type": "article-journal",
+        "volume": "284"
+    },
+    {
+        "URL": "http://proceedings.mlr.press/v97/chiquet19a.html",
+        "author": [
+            {
+                "family": "Chiquet",
+                "given": "Julien"
+            },
+            {
+                "family": "Robin",
+                "given": "Stephane"
+            },
+            {
+                "family": "Mariadassou",
+                "given": "Mahendra"
+            }
+        ],
+        "collection-title": "Proceedings of machine learning research",
+        "container-title": "Proceedings of the 36th international conference on machine learning",
+        "editor": [
+            {
+                "family": "Chaudhuri",
+                "given": "Kamalika"
+            },
+            {
+                "family": "Salakhutdinov",
+                "given": "Ruslan"
+            }
+        ],
+        "id": "Chiquet_2019",
+        "issued": {
+            "date-parts": [
+                [
+                    2019
+                ]
+            ]
+        },
+        "keyword": "Variational inference, Network inference, Part 3, Part 4",
+        "page": "1162-1171",
+        "publisher": "PMLR",
+        "publisher-place": "Long Beach, California, USA",
+        "title": "Variational inference for sparse network reconstruction from count data",
+        "type": "paper-conference",
+        "volume": "97"
+    },
+    {
+        "annote": "Explique le probl\u00e8me de l\u2019inf\u00e9rence des int\u00e9ractions.",
+        "author": [
+            {
+                "family": "Momal",
+                "given": "Rapha\u00eblle"
+            },
+            {
+                "family": "Robin",
+                "given": "St\u00e9phane"
+            },
+            {
+                "family": "Ambroise",
+                "given": "Christophe"
+            }
+        ],
+        "container-title": "arXiv",
+        "id": "momal_2019",
+        "issued": {
+            "date-parts": [
+                [
+                    2019
+                ]
+            ]
+        },
+        "keyword": "Tree-based inference, Network inference, Part 3",
+        "title": "Tree-based inference of species interaction network from abundance data",
+        "type": "article-journal"
+    },
+    {
+        "DOI": "10.1002/ecm.1370",
+        "URL": "https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecm.1370",
+        "annote": "Evaluation de pleins de SDM, performance fluctuante pour chaque mod\u00e8le. Invite \u00e0 utiliser plusieurs mod\u00e8les et \u00e0 de la validation crois\u00e9e.",
+        "author": [
+            {
+                "family": "Norberg",
+                "given": "Anna"
+            },
+            {
+                "family": "Abrego",
+                "given": "Nerea"
+            },
+            {
+                "family": "Blanchet",
+                "given": "F. Guillaume"
+            },
+            {
+                "family": "Adler",
+                "given": "Frederick R."
+            },
+            {
+                "family": "Anderson",
+                "given": "Barbara J."
+            },
+            {
+                "family": "Anttila",
+                "given": "Jani"
+            },
+            {
+                "family": "Ara\u00fajo",
+                "given": "Miguel B."
+            },
+            {
+                "family": "Dallas",
+                "given": "Tad"
+            },
+            {
+                "family": "Dunson",
+                "given": "David"
+            },
+            {
+                "family": "Elith",
+                "given": "Jane"
+            },
+            {
+                "family": "Foster",
+                "given": "Scott D."
+            },
+            {
+                "family": "Fox",
+                "given": "Richard"
+            },
+            {
+                "family": "Franklin",
+                "given": "Janet"
+            },
+            {
+                "family": "Godsoe",
+                "given": "William"
+            },
+            {
+                "family": "Guisan",
+                "given": "Antoine"
+            },
+            {
+                "family": "O\u2019Hara",
+                "given": "Bob"
+            },
+            {
+                "family": "Hill",
+                "given": "Nicole A."
+            },
+            {
+                "family": "Holt",
+                "given": "Robert D."
+            },
+            {
+                "family": "Hui",
+                "given": "Francis K. C."
+            },
+            {
+                "family": "Husby",
+                "given": "Magne"
+            },
+            {
+                "family": "K\u00e5l\u00e5s",
+                "given": "John Atle"
+            },
+            {
+                "family": "Lehikoinen",
+                "given": "Aleksi"
+            },
+            {
+                "family": "Luoto",
+                "given": "Miska"
+            },
+            {
+                "family": "Mod",
+                "given": "Heidi K."
+            },
+            {
+                "family": "Newell",
+                "given": "Graeme"
+            },
+            {
+                "family": "Renner",
+                "given": "Ian"
+            },
+            {
+                "family": "Roslin",
+                "given": "Tomas"
+            },
+            {
+                "family": "Soininen",
+                "given": "Janne"
+            },
+            {
+                "family": "Thuiller",
+                "given": "Wilfried"
+            },
+            {
+                "family": "Vanhatalo",
+                "given": "Jarno"
+            },
+            {
+                "family": "Warton",
+                "given": "David"
+            },
+            {
+                "family": "White",
+                "given": "Matt"
+            },
+            {
+                "family": "Zimmermann",
+                "given": "Niklaus E."
+            },
+            {
+                "family": "Gravel",
+                "given": "Dominique"
+            },
+            {
+                "family": "Ovaskainen",
+                "given": "Otso"
+            }
+        ],
+        "container-title": "Ecological Monographs",
+        "id": "Norberg_2019",
+        "issued": {
+            "date-parts": [
+                [
+                    2019
+                ]
+            ]
+        },
+        "keyword": "JSDM, HMSC, Network inference, Part 3",
+        "page": "e01370",
+        "title": "A comprehensive evaluation of predictive performance of 33 species distribution models at species and community levels",
+        "type": "article-journal"
+    },
+    {
+        "DOI": "10.1111/ele.12757",
+        "URL": "http://dx.doi.org/10.1111/ele.12757",
+        "author": [
+            {
+                "family": "Ovaskainen",
+                "given": "Otso"
+            },
+            {
+                "family": "Tikhonov",
+                "given": "Gleb"
+            },
+            {
+                "family": "Norberg",
+                "given": "Anna"
+            },
+            {
+                "family": "Guillaume Blanchet",
+                "given": "F."
+            },
+            {
+                "family": "Duan",
+                "given": "Leo"
+            },
+            {
+                "family": "Dunson",
+                "given": "David"
+            },
+            {
+                "family": "Roslin",
+                "given": "Tomas"
+            },
+            {
+                "family": "Abrego",
+                "given": "Nerea"
+            }
+        ],
+        "container-title": "Ecology Letters",
+        "editor": [
+            {
+                "family": "Chave",
+                "given": "JeromeEditor"
+            }
+        ],
+        "id": "Ovaskainen_2017",
+        "issue": "5",
+        "issued": {
+            "date-parts": [
+                [
+                    2017,
+                    3
+                ]
+            ]
+        },
+        "keyword": "HMSC, Network inference, Part 3",
+        "page": "561-576",
+        "publisher": "Wiley",
+        "title": "How to make more out of community data? A conceptual framework and its implementation as models and software",
+        "type": "article-journal",
+        "volume": "20"
+    },
+    {
+        "annote": "L\u2019abondance est la variable r\u00e9\u00e9ponse dans les analyses multivari\u00e9\u00e9es.Joint distribution model : permet d\u2019expliquer l\u2019abondance gr\u00e2\u00e2ce \u00e0\u00e0 variables env + int\u00e9\u00e9ractions. On peut utiliser des mod\u00e8\u00e8les \u00e0\u00e0 variables latentes qui prennent en compte les int\u00e9\u00e9ractions commes variables latentes.",
+        "author": [
+            {
+                "family": "Warton",
+                "given": "David I"
+            },
+            {
+                "family": "Blanchet",
+                "given": "F Guillaume"
+            },
+            {
+                "family": "O\u2019Hara",
+                "given": "Robert B"
+            },
+            {
+                "family": "Ovaskainen",
+                "given": "Otso"
+            },
+            {
+                "family": "Taskinen",
+                "given": "Sara"
+            },
+            {
+                "family": "Walker",
+                "given": "Steven C"
+            },
+            {
+                "family": "Hui",
+                "given": "Francis KC"
+            }
+        ],
+        "container-title": "Trends in Ecology & Evolution",
+        "id": "Warton_2015",
+        "issue": "12",
+        "issued": {
+            "date-parts": [
+                [
+                    2015
+                ]
+            ]
+        },
+        "keyword": "LVM, Network inference, Part 3",
+        "page": "766-779",
+        "publisher": "Elsevier",
+        "title": "So many variables: Joint modeling in community ecology",
+        "type": "article-journal",
+        "volume": "30"
+    },
+    {
+        "DOI": "10.1111/j.2041-210x.2012.00190.x",
+        "URL": "http://dx.doi.org/10.1111/j.2041-210X.2012.00190.x",
+        "annote": "En \u00e9\u00e9cologie, les donn\u00e9\u00e9es d\u2019abondance multivari\u00e9\u00e9s sont largement utilis\u00e9\u00e9es pour voir comment la structure des communaut\u00e9\u00e9s changent le long d\u2019un gradient environmental et de tester des hypoth\u00e8\u00e8ses \u00e0\u00e0 propos de l\u2019impact de certaines variables environmentales ou de traitement exp\u00e9\u00e9rimental.Le package mvabund fit un GLM \u00e0\u00e0 chaque esp\u00e8\u00e8ces en utilisant les m\u00ea\u00eame variables explicatives.",
+        "author": [
+            {
+                "family": "Wang",
+                "given": "Yi"
+            },
+            {
+                "family": "Naumann",
+                "given": "Ulrike"
+            },
+            {
+                "family": "Wright",
+                "given": "Stephen T."
+            },
+            {
+                "family": "Warton",
+                "given": "David I."
+            }
+        ],
+        "container-title": "Methods in Ecology and Evolution",
+        "id": "Wang_2012",
+        "issue": "3",
+        "issued": {
+            "date-parts": [
+                [
+                    2012,
+                    2
+                ]
+            ]
+        },
+        "keyword": "LVM, R package, Network inference, Part 3",
+        "page": "471-474",
+        "publisher": "Wiley",
+        "title": "Mvabund- an r package for model-based analysis of multivariate abundance data",
+        "type": "article-journal",
+        "volume": "3"
+    },
+    {
+        "DOI": "10.1111/2041-210X.13303",
+        "URL": "https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.13303",
+        "author": [
+            {
+                "family": "Niku",
+                "given": "Jenni"
+            },
+            {
+                "family": "Hui",
+                "given": "Francis K. C."
+            },
+            {
+                "family": "Taskinen",
+                "given": "Sara"
+            },
+            {
+                "family": "Warton",
+                "given": "David I."
+            }
+        ],
+        "container-title": "Methods in Ecology and Evolution",
+        "id": "Niku_2019",
+        "issued": {
+            "date-parts": [
+                [
+                    2019
+                ]
+            ]
+        },
+        "keyword": "LVM, R package, Network inference, Part 3",
+        "title": "Gllvm: Fast analysis of multivariate abundance data with generalized linear latent variable models in r",
+        "type": "article-journal"
+    },
+    {
+        "DOI": "10.1111/geb.12464",
+        "URL": "http://dx.doi.org/10.1111/geb.12464",
+        "annote": "But : JDSDM could be used to assess the degree to which species have similar or different spatio-temporal patterns (\u2018species ordination\u2019species ordination). It could be used for community monitoring to estimate dominant trends in community abundance and whether trends are similar across spatial areas (\u2018community monitoring\u2019community monitoring).Extension de l\u2019article de Warton et al. 2015",
+        "author": [
+            {
+                "family": "Thorson",
+                "given": "James T."
+            },
+            {
+                "family": "Ianelli",
+                "given": "James N."
+            },
+            {
+                "family": "Larsen",
+                "given": "Elise A."
+            },
+            {
+                "family": "Ries",
+                "given": "Leslie"
+            },
+            {
+                "family": "Scheuerell",
+                "given": "Mark D."
+            },
+            {
+                "family": "Szuwalski",
+                "given": "Cody"
+            },
+            {
+                "family": "Zipkin",
+                "given": "Elise F."
+            }
+        ],
+        "container-title": "Global Ecology and Biogeography",
+        "id": "Thorson_2016",
+        "issue": "9",
+        "issued": {
+            "date-parts": [
+                [
+                    2016,
+                    5
+                ]
+            ]
+        },
+        "keyword": "JDSDM, Network inference, Part 3",
+        "page": "1144-1158",
+        "publisher": "Wiley",
+        "title": "Joint dynamic species distribution models: A tool for community ordination and spatio-temporal monitoring",
+        "type": "article-journal",
+        "volume": "25"
+    },
+    {
+        "DOI": "10.1101/603217",
+        "URL": "https://www.biorxiv.org/content/early/2019/04/09/603217",
+        "annote": "\u00c0 comparer avec : https://github.com/guiblanchet/HMSC",
+        "author": [
+            {
+                "family": "Tikhonov",
+                "given": "Gleb"
+            },
+            {
+                "family": "Opedal",
+                "given": "Oystein"
+            },
+            {
+                "family": "Abrego",
+                "given": "Nerea"
+            },
+            {
+                "family": "Lehikoinen",
+                "given": "Aleksi"
+            },
+            {
+                "family": "Ovaskainen",
+                "given": "Otso"
+            }
+        ],
+        "container-title": "bioRxiv",
+        "id": "Tikhonov_2019",
+        "issued": {
+            "date-parts": [
+                [
+                    2019
+                ]
+            ]
+        },
+        "keyword": "HMSC, R package, Network inference, Part 3, Part 4",
+        "publisher": "Cold Spring Harbor Laboratory",
+        "title": "Joint species distribution modelling with hmsc-r",
+        "type": "article-journal"
+    },
+    {
+        "author": [
+            {
+                "family": "Stark",
+                "given": "Keila A"
+            },
+            {
+                "family": "Thompson",
+                "given": "Patrick L"
+            },
+            {
+                "family": "Yakimishyn",
+                "given": "Jennifer"
+            },
+            {
+                "family": "Lee",
+                "given": "Lynn"
+            },
+            {
+                "family": "O\u2019Connor",
+                "given": "Mary I"
+            }
+        ],
+        "container-title": "bioRxiv",
+        "id": "Stark_2018",
+        "issued": {
+            "date-parts": [
+                [
+                    2018
+                ]
+            ]
+        },
+        "keyword": "HMSC, Seagrass, Benthos, Network inference, Part 3, Part 4",
+        "title": "Beyond a single patch: Local and regional processes explain diversity patterns in a seagrass epifaunal metacommunity",
+        "type": "article-journal"
+    }
+]

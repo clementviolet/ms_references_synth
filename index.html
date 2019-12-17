@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr">
+   <head>
+      <meta charset="utf-8">
+      <title>Comment caractériser et inférer les interactions dans les communautés écologiques ?</title>
+      <script src="https://hypothes.is/embed.js" async></script>
+      <!--fonts-->
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha256-l85OmPOjvil/SOvVt3HnSSjzF1TUMyT9eV0c2BzEGzU=" crossorigin="anonymous" />
+      <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:400,600|Source+Sans+Pro:300,300i,400,400i,600,600i&display=swap&subset=greek" rel="stylesheet">
+      <link rel="stylesheet/less" type="test/css" href="./assets/style.less">
+      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+   </head>
+   <body>
+      <header>
+         <section class="container">
+            <h1>Comment caractériser et inférer les interactions dans les communautés écologiques ?</h1>
+            <section class="creators">
+                              <div class="creator">
+                  <div class="author">Clément Violet</div>
+                  <div class="affiliation">Université de Rennes 1</div>
+                  <div class="orcid">0000-0001-6217-5891</div>
+               </div>
+                           </section>
+            <summary>
+               UE Synthèse Bibliographique
+               <!--<div class="keywords">-->
+               <!---->
+               <!--<span class="keyword">Network inference, Network Analysis, JDSM</span>-->
+               <!---->
+               <!--</div>-->
+            </summary>
+         </section>
+      </header>
+
+      <nav class="artifacts">
+         <a href="https://github.com/clementviolet/ms_references_synth/" title="Github repo - Markdown" target="_blank"><img src="https://img.shields.io/badge/write-github-blue.svg" /></a>
+         <a href="Comment_caractériser_et_inférer_les_interactions.pdf" title="Github repo - PDF" target="_blank"><img src="https://img.shields.io/badge/read-pdf-green.svg" /></a>
+         <a href="Comment_caractériser_et_inférer_les_interactions.docx" title="Github repo - MS Word" target="_blank"><img src="https://img.shields.io/badge/read-docx-yellow.svg" /></a>
+         <a href="Comment_caractériser_et_inférer_les_interactions.tex" title="Github repo - XeLaTeX" target="_blank"><img src="https://img.shields.io/badge/read-XeLaTeX-blueviolet" /></a>
+      </nav>
+
+      <article class="container">
+         <h1 id="les-interactions-en-écologie">Les interactions en écologie</h1>
+         <p>This is a citation: <span class="citation" data-cites="Martinez2002">(<span class="citeproc-not-found" data-reference-id="Martinez2002"><strong>???</strong></span>)</span> – we can also have citations in brackets <span class="citation" data-cites="Martinez2002">(<span class="citeproc-not-found" data-reference-id="Martinez2002"><strong>???</strong></span>)</span>.</p>
+         <h1 id="caractéristiques-des-interactions">Caractéristiques des interactions</h1>
+         <ol type="1">
+         <li>one fish</li>
+         <li>two fish</li>
+         <li>red fish</li>
+         <li>blue fish</li>
+         </ol>
+         <h1 id="prédire-les-interactions">Prédire les interactions</h1>
+         <p>There is an equation, which we can cite with <a href="#eq:eq1">1</a>.</p>
+         <p><span id="eq:eq1" class="eqnos"><br /><img style="vertical-align:middle" src="https://latex.codecogs.com/png.latex?J%27%28p%29%20%3D%20%5Cfrac%7B1%7D%7B%5Ctext%7Blog%7D%28S%29%7D%5Ctimes%5Cleft%28-%5Csum%20p%20%5Ctext%7Blog%7D%28p%29%5Cright%29" alt="J&#39;(p) = \frac{1}{\text{log}(S)}\times\left(-\sum p \text{log}(p)\right)" title="J&#39;(p) = \frac{1}{\text{log}(S)}\times\left(-\sum p \text{log}(p)\right)" /><br /><span class="eqnos-number">(1)</span></span> </p>
+         <h1 id="utilisation-de-la-prédiction-des-intéractions-en-écologie-des-communautés-marines">Utilisation de la prédiction des intéractions en écologie des communautés marines</h1>
+         <p>We can do tables:</p>
+         <div id="tbl:1" class="tablenos">
+         <table>
+         <caption><span>Table 1:</span> Demonstration of a simple table. </caption>
+         <thead>
+         <tr class="header">
+         <th>Column 1</th>
+         <th style="text-align: center;">Column 2</th>
+         <th style="text-align: right;">Column 3</th>
+         </tr>
+         </thead>
+         <tbody>
+         <tr class="odd">
+         <td>c1</td>
+         <td style="text-align: center;">c2</td>
+         <td style="text-align: right;"><img style="vertical-align:middle" src="https://latex.codecogs.com/png.latex?%5Calpha" alt="\alpha" title="\alpha" /></td>
+         </tr>
+         </tbody>
+         </table>
+         </div>
+         <p>The first column is neat, the second centered and the third right-aligned. We can also cite table with <a href="#tbl:1">1</a></p>
+         <h1 id="figures">Figures</h1>
+         <!--
+         ![This is the legend of the figure](figures/biomes.png){#fig:biomes}
+         
+         We can refer to @fig:biomes. 
+         -->
+         <h1 id="code">Code?</h1>
+         <p>Yes</p>
+         <div class="sourceCode" id="cb1"><pre class="sourceCode julia"><code class="sourceCode julia"><span id="cb1-1"><a href="#cb1-1"></a><span class="kw">for</span> i <span class="kw">in</span> eachindex(x)</span>
+         <span id="cb1-2"><a href="#cb1-2"></a>  x[i] = zero(eltype(x)) <span class="co"># Don&#39;t do that</span></span>
+         <span id="cb1-3"><a href="#cb1-3"></a><span class="kw">end</span></span></code></pre></div>
+         <h1 id="references">References</h1>
+      </article>
+
+   </body>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/less.js/3.9.0/less.min.js" ></script>
+</html>

@@ -22,7 +22,7 @@ before_deploy:
 
 deploy:
   provider: pages
-  cleanup: true
+  skip_cleanup: true
   keep_history: true
   token: $GITHUB_TOKEN
   on:
