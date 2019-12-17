@@ -1,11 +1,11 @@
 ---
 authors: Clément Violet
-documentclass: article
+documentclass: report
 classoption: oneside
 dates: false
 langue: true
 polyglossia-lang:
-  name: english
+  name: french
 geometry:
   - left = 2cm
   - right = 2cm
@@ -13,29 +13,28 @@ geometry:
   - bottom = 2cm
 mainfont: Lato
 fontsize: 12pt
-toc: false
-linestretch: false
+toc: true
+linestretch: 1.5
 ---
 
-# The model
+# Les interactions en écologie
 
-This is a citation: @Martinez2002 -- we can also have citations in brackets
-[@Martinez2002].
+This is a citation: @Martinez2002 -- we can also have citations in brackets [@Martinez2002].
 
-## Lists
+# Caractéristiques des interactions
 
 1. one fish
 2. two fish
 3. red fish
 4. blue fish
 
-# Methods
+# Prédire les interactions
 
 There is an equation, which we can cite with {@eq:eq1}.
 
 $$J'(p) = \frac{1}{\text{log}(S)}\times\left(-\sum p \text{log}(p)\right)$$ {#eq:eq1}
 
-# Tables
+# Utilisation de la prédiction des intéractions en écologie des communautés marines
 
 We can do tables:
 
@@ -49,9 +48,11 @@ The first column is neat, the second centered and the third right-aligned. We ca
 
 # Figures
 
+<!--
 ![This is the legend of the figure](figures/biomes.png){#fig:biomes}
 
-We can refer to @fig:biomes.
+We can refer to @fig:biomes. 
+-->
 
 # Code?
 
