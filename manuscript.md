@@ -15,6 +15,7 @@ mainfont: Lato
 fontsize: 12pt
 toc: true
 linestretch: 1.5
+subtitle: UE Analyse Bibliographique
 ---
 
 # Les interactions en écologie
