@@ -64,4 +64,4 @@ for i in eachindex(x)
 end
 ~~~
 
-# References
+# Bibliographie
