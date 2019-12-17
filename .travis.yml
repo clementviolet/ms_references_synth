@@ -1,8 +1,9 @@
+os: linux
 dist: xenial
 language: python
 python:
   - "3.6"
-sudo: false
+
 git:
   quiet: true
 
@@ -23,6 +24,6 @@ deploy:
   provider: pages
   skip_cleanup: true
   keep_history: true
-  github_token: $GITHUB_TOKEN
+  token: $GITHUB_TOKEN
   on:
      all_branches: true
