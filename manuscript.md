@@ -17,9 +17,17 @@ linestretch: 1.5
 subtitle: UE Analyse Bibliographique
 ---
 
+# Introduction
+
+Les interactions sont un des éléments clés de voute de la structure des communautés biologiques. Ainsi, dès le début de l'écologie moderne, les interactions sont apparues comme l'un des deux éléments importants dans la lutte pour le plus apte [@Darwin_2004]. Ainsi, à des échelles temporelles et spatiales réduites, les interactions sont le principal facteur de la biodiversité [@Benton_2009], c'est l'hypothèse de la *Reine Rouge* [@Van_Valen_1973]. 
+
+Cependant, les connaissances sur les interactions intraspécifiques et interspécifiques sont encore aujourd'hui très lacunaires [@Morales_Castilla_2015 ; @Rosado_2016]. Ce manque de connaissance peut s'expliquer par le fait qu'il est actuellement impossible d'observer les interactions entre les espèces. Par exemple, un écosystème avec seulement sept espèces différentes peut donner lieu à l'observation de 42 directes interactions et plus de 13 000 interactions indirectes [@Morales_Castilla_2015].
+
+La caractérisation et l'inférence des interactions entre les espèces peuvent sembler alors une tâche qui n'a que peut d'intérêt au vu de sa complexité. Toutefois, il existe des preuves dans la littérature que les interactions peuvent affecter l'aire de répartition et la co-distribution des espèces à des échelles spatiales locales, voire continentales. De plus, les interactions pourraient également moduler les réponses biologiques des espèces face aux changements environnementaux [@Morales_Castilla_2015].  De plus en plus de recherches se penchent ainsi sur la prédiction du fonctionnement des écosystèmes face aux changements globaux. C'est pourquoi la prédiction des interactions entre les espèces d'un même écosystème devient un enjeu majeur en écologie des communautés [@Montoya_2010].
+
 # Les interactions en écologie
 
-This is a citation: @Darwin_2004 -- we can also have citations in brackets [@Darwin_2004].
+
 
 # Caractéristiques des interactions
 
