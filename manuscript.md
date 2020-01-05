@@ -19,6 +19,8 @@ linestretch: 1.5
 subtitle: UE Analyse Bibliographique
 tablenos-plus-name: tableau
 tablenos-star-name: Tableau
+eqnos-plus-name: équation
+fignos-plus-name: figure
 ---
 
 # Introduction
@@ -96,51 +98,56 @@ Toutefois, ces mesures d'analyse de la structure des réseaux d'interaction ont 
 
 <!-- ## Données de co-occurences -->
 
-
 # Prédire les interactions
 
+En écologie trophique il existe une boîte à outils de méthodes pour observer des interactions entre des proies et des prédateurs grâce à un certain nombre d'outils. Ces outils passent par de l'observation direct, de l'analyse de contenue stomacaux, les mesures d'isotopes stables, des contaminents ou bien encore des méthodes statistiques [@Majdi_2018]. Mais ces méthodes ne permettent pas de faire d'inferrence par rapport aux autres types d'interactions.
 
-# Template
+Ces dernières années, un ensemble de nouvelles méthodes statisques ont été développer pour estimer la distribution spatiale et ou temporelles à l'aide de données de co-occurence ou d'abondance, ce sont les *Spatial Distribution Models* (*SDM*). Ces méthodes peuvent être utiliser pour  analyser simultanément la distribution corrélée de plusieurs espèces [@Thorson_2016]. Ces nouvelles méthodes ont également l'avantage de pouvoir prendre en compte les interaction entre les espèces et éventuellement de les estimer. 
 
-## List
+Dans les prochains paragraphes, il sera questions de quelques une de ces méthodes : *Latent Variable Model*, *Hierarchical Modelling of Species Communities*, *Gaussian copula graphical models* et quelques méthodes de machine learning. Enfin, dans une dernière partie, il s'agira d'avoir un regard critique sur les données de co-occurence et leurs apports pour prédire les interactions entre espèces.
 
-1. one fish
-2. two fish
-3. red fish
-4. blue fish
+## *Latent Variable Models*
 
-## Equation
-There is an equation, which we can cite with {@eq:eq1}.
+Le but des *Latent Variable Models* (*LVM*) est de décrire les corrélation entre l'abondance des taxons en fonction de variables explicatives, ce genre de modèle fait parti d'une plus grande famille de modèles en écologie des communautés, nommés les *Joint species distribution models*. Les *LVM* sont des extensions des *Generalized Linear Model* (*GLM*) et ils incluent une forme d'effet aléatoire pour permettre de prendre en compte les corrélation d'abondance entre les espèces (+@eq:eq1). Dans le cas des *LVM*, l'effet aléatoire est inclu grâce à des variables latentes : c'est-à-dire des variables non mesurés par l'expérimentateur [@Warton_2015]. 
 
-$$J'(p) = \frac{1}{\text{log}(S)}\times\left(-\sum p \text{log}(p)\right)$$ {#eq:eq1}
+$$g(m_{ij}) = \alpha_i + \beta_{0j} + x_i'\beta_j + z_i'\lambda_j$$ {#eq:eq1}
+
+$g()$ est la fonction de lien comme dans un GLM, qui relie la moyenne estimée au prédicteur linéaire. $m_{ij}$ est l'abdondance moyenne de l'espèce $j$ au site $i$. $\alpha_{i}$ est un terme facultatif qui s'ajuste en fonction de l'abondance relative ou de la richesse totale du site pour modéliser de l'abondance relative plutôt que sur l'abondance absolue.$x'$ est la transposé des données d'abondance pour chaque espèce $j$, $\beta_{0j}$ est l'ordonné à l'origine et $\beta_j$ est un vecteur de coefficient de régression estimé à partir des variables explicatives. Enfin $\lambda_j$ est un facteur de charge lié aux variables latentes $z_i$. Cette variable latente est traitée comme un facteur aléatoire, comme l'abondance en assumant que $y_{ij}|z_i \sim F(m_{ij}, \phi_j)$ et $z_i \sim N(0,1)$. Ainsi, la distribution de l'abondance connaissant la valeur de la variable latente suit une loi de probabilité caractérisé par une moyenne ($m_{ij}$) et un  paramètre de dispersion ($\phi_j$). La difficulté d'estimer un tel modèle reside dans l'estimation des variables latentes et des facteurs de charges, car non observées. Il faut alors avoir recourt à des priors ou de l'inférence bayésienne. Mais son intérêt résident également dans le fait que cette méthode permet de réduire le nombre de coefficient de corrélation à estimer lorsqu'elle est comparé à un *Generalized Linear Mixed Model* multivarié. Le temps de calcul d'un *LVM* est d'un dixième de celui d'un *Generalized Linear Mixed Model* pour un jeu de donnée de co-occurence à 65 colonnes et 75 lignes [@Warton_2015]. 
+
+Les *LVM* permettent d'estimer les corrélation entre les espèces après avoir contrôllé l'effet de variables envrionnementales, mais égallement d'utiliser les variables latentes comme des axes d'ordination et bien entendu faire de l'inférence multivarié pour de la projection. Les *LVM* sont également intéressante pour inférer les interactions entre les espèces, puisque les variables latentes peuvent être interprété comme des variables comprenant les interactions entre les espèces au sein d'une même communautée.
+
+Rapidement un package R est sorti pour permettre aux écologiste de mettre facilement en oeuvre les *LVM* comme *boreal* d'après les travaux de @Hui_2016.
+
+## *Hierarchical Modelling of Species Communities*
+
+Quelques années après le papier de @Warton_2015, @Ovaskainen_2017_procB proposèrent une extension des *JSDM* nommé *Hierarchical Modelling of Species Communities* (*HMSC*). Ce nouveau cadre statistique propose d'intégrer des données d'occurence ou d'abonndance, de données environnementales, le contexte spatio-temporel du plan d'échantillonage, des données de trait et de phylogénie +@fig:hmsc_summary.
+
+![Schéma conceptule du cadre de modélisation statisque *HMSC*. Les rectangles oranges font référence aux données que peut entrer dans le modèle l'utilisateur et les élipse bleue font référence aux paramètres qu'il est possible d'observer. Adapté de @Ovaskainen_2017_procB.](figures/hmsc_summary.png){#fig:hmsc_summary}
+
+Pour fonctionner, les *HMSC* ont besoin au minimum de données d'abondance (ou de co-occurence), ainsi que des données environnementales (matrices $X$ et $Y$ +@fig:hmsc_summary).
+
+Ce genre de modèles peut répondre à un large éventaille de questions comme quelle part de la variance de l'abondance des espèces est due aux filtres environnemntaux, aux interactions biotiques et aux processus aléatoire ? Quelles sont les structures des réseaux d'interaction entre les espèces ? Ou bien encore est-ce que la présence de certaines espèces indiquent la présence d'autres ? [@Ovaskainen_2017_procB].
+
+L'inférrence d'interaction est rendu possible grâce à l'estimation de de la matrice d'association $\Omega$ (+@fig:hmsc_summary). Cette matrice estime si deux espèces ont une probabilité d'occurence supérieur à celle du hasard. Pour $m$ espèce, cette matrice $\Omega$ a $m(m+1)/2$ paramètres à estimer, ce qui rend la tâche complexe lorsque $m$ est suffisament grand. Pour contourner ce problème, @Ovaskainen_2017_procB utilisent une méthode dérivée des *LVM*, ils utilisent les facteurs de charges associés aux variables latentes pour estimer la matrice $\Omega$. Bien que les auteurs soient d'accord sur le fait que ces facteurs de charge n'expriment pas directement des interaction au sens écologique du terme, ils sont utiles pour révéler des configurations où deux espèces sont présentes en même temps plus souvent que le hasard ne peut l'expliquer.
+
+Pour utiliser ce cadre de modélisation, un package R a été développé pour mettre en place les analyses de type *HMSC* [@Tikhonov_2019]. Ainsi, ce type d'analyse a été mis en place sur les herbiers de zoostère[^1] (*Zostera marina*) par @Stark_2018. Ils ont ainsi pu mettre en évidence de signaux fort de co-occurence d'espèces antagonistes entre différents sites, ce qui leur a permis de supposer de fortes interactions biotiques qui pourrait se traduire par exemple, par de la compétition entre les espèces herbivore pour l'accès à la production primaire. Les auteurs font également l'hypohtèse que la structuration des communautés de *Zostera marina* peut également traduire un effet prioritaire[^2] important sur les herbiers plus récents.
+
+[^1]: Un des milieux biogènes qui sera au coeur de mon stage.
+
+[^2]: Effet que peut avoir une espèce particulière sur le développement d'une communauté, car elle s'est installée plus tôt sur le site.
+
+## *Gaussian Copula Graphical Models*
+
+Pour estimer l'interaction entre espèces @Popovic_2019 proposent l'utisation d'un nouveau cadre de modélisation statique : *Gaussian Copula Graphical Models* (*GCGM*). Ce nouveau type de modèle couple une distribussion multivariée gaussienne à une autre type de distribution marginale à choisir en fonction du type de donnée : distribution bionomiale pour des données de présence/absence, distribution de Poisson pour des données d'abondance, etc. Cette combinaison permet d'accéder au corrélations de co-occurence d'espèce pour tout type de données et l'utilisation d'une copule gaussienne permet d'utiliser des des modèles graphiques gaussien pour estimer les liens d'interactions entre les différentes espèces. Ainsi, ce nouveau type de méthode est capable d'utiliser tout types de données d'occurence utilisée en écologie. Sa grande flexibilité en fait une des forces de ce nouvel outil. Pour faciliter son utilisation, les auteurs de cet article ont mis à disposition un package R. Grâce au *GCGM* il est possible d'obtenir des graphes non-orientée qui permettent de voir les relations entre chaque espèces. Il est alors possible d'observer les interactions directe et indirecte entre les différentes espèces. De plus, l'obtention de graphes non orienté permet d'utiliser certaines mesures de la théorie des graphes pour permettre des interprétation plus large sur la structure du réseau écologique. Toutefois, quelques précautions sont à prendre avec l'analyse de cette méthode : les espèces qui semblent interragir entre elles peuvent répondre de la même façon à une variable environnementale non mesurée et l'absence d'interaction peut également être un artefac lié à un problème d'échantillonnage. 
 
 
-We can do tables:
+## *Machine Learning*
 
-| Column 1 | Column 2 |      Column 3    |
-| -------- | :-------:| ---------------: |
-| c1       |    c2    |       $\alpha$   |
+Depuis quelques années, les écologues se sont emparés des méthodes de *Machine Learning* pour répondre à de vaste question. A partir de catalogue d'interactions il est possible de déterminer pour de nouvelles espèces, lesquelles sont susceptible d'interagir entre elles [@Desjardins-Proulx_2017 ; @Beauchesne_2017b] . L'algorithme retenu dans les deux cas a été celui des plus proches voisins (*KNN*). Bien que l'implémentation et la création du catalogue d'interaction permettant l'inférerance soit de nature différente, les auteurs de ces deux articles notent de très belles performances pour prédire les interactions trophiques. @Desjardins-Proulx_2017 montrent que leur algorithme est capable de prédire correctement la proie d'un prédateur plus de 50% du temps parmi un ensemble de plus de 800 proies possible. L'algorithme de @Beauchesne_2017b fait mieux en arrivant à prédire correctement les interactions entre 80% et presque 100% du temps. La différence de précision peut être en partie expliquée par la construction des catalogues d'interactions.
 
-Table: Demonstration of a simple table. {#tbl:toto}
+@Desjardins-Proulx_2017 ont également utilisé dans leur article un algorithme d'apprentissage supervisé, les *Random Forest*. Utilisant uniquement trois traits : la masse et deux variables portant sur les relations phylogénétiques, ils ont montré qu'il était possible de prédire correctement plus de 95% du temps les interactions et non-interactions dans un réseau trophique. 
 
-The first column is neat, the second centered and the third right-aligned. We can also cite table with {@tbl:toto}
+Cette dernière approche a ouvert la piste à d'autres chercheurs qui se sont intéressés à prédire les interactions entre les plantes et les pollinisateurs [@Pichler_2019]. Dans leur article, les auteurs montrent par exemple que les algorithmes de *Random Forest* ou de *Deep Neural Network* sont capables de prédire correctement grâce aux traits près de 90% des interactions et surpassent d'autres méthodes statistiques plus classiques comme les *GLM*. De plus, ces algorithmes permettent aussi d'inférer quels sont les traits qui régulent les interactions entre les plantes et les oiseaux mouches sans avoir eu à faire d'hypothèses à priori sur le fonctionnement du système. Les auteurs mettent l'accent sur le fait que les algorithmes de *Machine Learning* offrent beaucoup d'avantages par rapport aux modèles de régression. Au vu du potentiel de ces algorithmes, les auteurs encouragent leur utilisation pour prédire les interactions dans d'autres types de réseaux d'interactions.
 
-## Figures
-
-<!--
-![This is the legend of the figure](figures/biomes.png){#fig:biomes}
-
-We can refer to @fig:biomes. 
--->
-
-## Code?
-
-Yes
-
-~~~ julia
-for i in eachindex(x)
-  x[i] = zero(eltype(x)) # Don't do that
-end
-~~~
 
 # Bibliographie
