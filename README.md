@@ -16,4 +16,4 @@ make comments using [hypothes.is](https://hypothes.is/).
 
 |                 |                                |            HTML            |             TeX            |             PDF            |        Word document        |
 |-----------------|--------------------------------|:--------------------------:|:--------------------------:|:--------------------------:|:---------------------------:|
-| `master` (main) | [![Build Status](https://travis-ci.org/clementviolet/ms_references_synth.svg?branch=master)](https://travis-ci.org/clementviolet/ms_references_synth) | [:blue_book:][master_html] | [:notebook:][master_tex] | [:green_book:][master_pdf] | [:orange_book:][master_doc] |
+| `master` (main) | [![Build Status](https://travis-ci.com/clementviolet/ms_references_synth.svg?branch=master)](https://travis-ci.org/clementviolet/ms_references_synth) | [:blue_book:][master_html] | [:notebook:][master_tex] | [:green_book:][master_pdf] | [:orange_book:][master_doc] |
