@@ -1,5 +1,483 @@
 [
     {
+        "DOI": "10.1890/07-0978.1",
+        "URL": "https://doi.org/10.1890%2F07-0978.1",
+        "author": [
+            {
+                "family": "Vermaat",
+                "given": "Jan E."
+            },
+            {
+                "family": "Dunne",
+                "given": "Jennifer A."
+            },
+            {
+                "family": "Gilbert",
+                "given": "Alison J."
+            }
+        ],
+        "container-title": "Ecology",
+        "id": "Vermaat_2009",
+        "issue": "1",
+        "issued": {
+            "date-parts": [
+                [
+                    2009,
+                    1
+                ]
+            ]
+        },
+        "page": "278-282",
+        "publisher": "Wiley",
+        "title": "Major dimensions in food-web structure properties",
+        "type": "article-journal",
+        "volume": "90"
+    },
+    {
+        "DOI": "10.1086/285382",
+        "URL": "https://doi.org/10.1086%2F285382",
+        "author": [
+            {
+                "family": "Martinez",
+                "given": "Neo D."
+            }
+        ],
+        "container-title": "The American Naturalist",
+        "id": "Martinez_1992",
+        "issue": "6",
+        "issued": {
+            "date-parts": [
+                [
+                    1992,
+                    6
+                ]
+            ]
+        },
+        "page": "1208-1218",
+        "publisher": "University of Chicago Press",
+        "title": "Constant connectance in community food webs",
+        "type": "article-journal",
+        "volume": "139"
+    },
+    {
+        "DOI": "10.1146/annurev-ecolsys-102209-144718",
+        "URL": "https://doi.org/10.1146%2Fannurev-ecolsys-102209-144718",
+        "author": [
+            {
+                "family": "Dale",
+                "given": "M. R. T."
+            },
+            {
+                "family": "Fortin",
+                "given": "M.-J."
+            }
+        ],
+        "container-title": "Annual Review of Ecology, Evolution, and Systematics",
+        "id": "Dale_2010",
+        "issue": "1",
+        "issued": {
+            "date-parts": [
+                [
+                    2010,
+                    12
+                ]
+            ]
+        },
+        "page": "21-38",
+        "publisher": "Annual Reviews",
+        "title": "From graphs to spatial graphs",
+        "type": "article-journal",
+        "volume": "41"
+    },
+    {
+        "DOI": "10.2307/2937158",
+        "URL": "https://doi.org/10.2307%2F2937158",
+        "author": [
+            {
+                "family": "Menge",
+                "given": "Bruce A."
+            }
+        ],
+        "container-title": "Ecological Monographs",
+        "id": "Menge_1995",
+        "issue": "1",
+        "issued": {
+            "date-parts": [
+                [
+                    1995,
+                    2
+                ]
+            ]
+        },
+        "page": "21-74",
+        "publisher": "Wiley",
+        "title": "Indirect effects in marine rocky intertidal interaction webs: Patterns and importance",
+        "type": "article-journal",
+        "volume": "65"
+    },
+    {
+        "DOI": "10.1086/286025",
+        "URL": "https://doi.org/10.1086%2F286025",
+        "author": [
+            {
+                "family": "Menge",
+                "given": "Bruce A."
+            }
+        ],
+        "container-title": "The American Naturalist",
+        "id": "Menge_1997",
+        "issue": "5",
+        "issued": {
+            "date-parts": [
+                [
+                    1997,
+                    5
+                ]
+            ]
+        },
+        "page": "801-823",
+        "publisher": "University of Chicago Press",
+        "title": "Dection of direct versus indirect effects: Were experiments long enough?",
+        "type": "article-journal",
+        "volume": "149"
+    },
+    {
+        "DOI": "10.1098/rspb.2010.1371",
+        "URL": "https://doi.org/10.1098%2Frspb.2010.1371",
+        "author": [
+            {
+                "family": "Olesen",
+                "given": "Jens M."
+            },
+            {
+                "family": "Bascompte",
+                "given": "Jordi"
+            },
+            {
+                "family": "Dupont",
+                "given": "Yoko L."
+            },
+            {
+                "family": "Elberling",
+                "given": "Heidi"
+            },
+            {
+                "family": "Rasmussen",
+                "given": "Claus"
+            },
+            {
+                "family": "Jordano",
+                "given": "Pedro"
+            }
+        ],
+        "container-title": "Proceedings of the Royal Society B: Biological Sciences",
+        "id": "Olesen_2010",
+        "issue": "1706",
+        "issued": {
+            "date-parts": [
+                [
+                    2010,
+                    9
+                ]
+            ]
+        },
+        "page": "725-732",
+        "publisher": "The Royal Society",
+        "title": "Missing and forbidden links in mutualistic networks",
+        "type": "article-journal",
+        "volume": "278"
+    },
+    {
+        "author": [
+            {
+                "family": "Poisot",
+                "given": "Timoth\u00e9e"
+            },
+            {
+                "family": "Bergeron",
+                "given": "Gabriel"
+            },
+            {
+                "family": "Cazelles",
+                "given": "Kevin"
+            },
+            {
+                "family": "Dallas",
+                "given": "Tad"
+            },
+            {
+                "family": "Gravel",
+                "given": "Dominique"
+            },
+            {
+                "family": "McDonald",
+                "given": "Andrew"
+            },
+            {
+                "family": "Mercier",
+                "given": "Benjamin"
+            },
+            {
+                "family": "Violet",
+                "given": "Cl\u00e9ment"
+            },
+            {
+                "family": "Vissault",
+                "given": "Steve"
+            }
+        ],
+        "id": "Poisot_2019",
+        "issued": {
+            "date-parts": [
+                [
+                    2019
+                ]
+            ]
+        },
+        "title": "Environmental biases in the study of ecological networks at the planetary scale",
+        "type": "manuscript"
+    },
+    {
+        "DOI": "10.1890/08-0657.1",
+        "URL": "https://doi.org/10.1890%2F08-0657.1",
+        "author": [
+            {
+                "family": "Montoya",
+                "given": "Jos\u00e9M."
+            },
+            {
+                "family": "Woodward",
+                "given": "Guy"
+            },
+            {
+                "family": "Emmerson",
+                "given": "Mark C."
+            },
+            {
+                "family": "Sol\u00e9",
+                "given": "Ricard V."
+            }
+        ],
+        "container-title": "Ecology",
+        "id": "Montoya_2009",
+        "issue": "9",
+        "issued": {
+            "date-parts": [
+                [
+                    2009,
+                    9
+                ]
+            ]
+        },
+        "page": "2426-2433",
+        "publisher": "Wiley",
+        "title": "Press perturbations and indirect effects in real food webs",
+        "type": "article-journal",
+        "volume": "90"
+    },
+    {
+        "DOI": "10.1111/j.1365-2656.2008.01460.x",
+        "URL": "https://doi.org/10.1111%2Fj.1365-2656.2008.01460.x",
+        "author": [
+            {
+                "family": "Ings",
+                "given": "Thomas C."
+            },
+            {
+                "family": "Montoya",
+                "given": "Jos\u00e9 M."
+            },
+            {
+                "family": "Bascompte",
+                "given": "Jordi"
+            },
+            {
+                "family": "Bl\u00fcthgen",
+                "given": "Nico"
+            },
+            {
+                "family": "Brown",
+                "given": "Lee"
+            },
+            {
+                "family": "Dormann",
+                "given": "Carsten F."
+            },
+            {
+                "family": "Edwards",
+                "given": "Fran\u00e7ois"
+            },
+            {
+                "family": "Figueroa",
+                "given": "David"
+            },
+            {
+                "family": "Jacob",
+                "given": "Ute"
+            },
+            {
+                "family": "Jones",
+                "given": "J. Iwan"
+            },
+            {
+                "family": "Lauridsen",
+                "given": "Rasmus B."
+            },
+            {
+                "family": "Ledger",
+                "given": "Mark E."
+            },
+            {
+                "family": "Lewis",
+                "given": "Hannah M."
+            },
+            {
+                "family": "Olesen",
+                "given": "Jens M."
+            },
+            {
+                "dropping-particle": "van",
+                "family": "Veen",
+                "given": "F. J. Frank"
+            },
+            {
+                "family": "Warren",
+                "given": "Phil H."
+            },
+            {
+                "family": "Woodward",
+                "given": "Guy"
+            }
+        ],
+        "container-title": "Journal of Animal Ecology",
+        "id": "Ings_2009",
+        "issue": "1",
+        "issued": {
+            "date-parts": [
+                [
+                    2009,
+                    1
+                ]
+            ]
+        },
+        "page": "253-269",
+        "publisher": "Wiley",
+        "title": "Review: Ecological networks - beyond food webs",
+        "type": "article-journal",
+        "volume": "78"
+    },
+    {
+        "DOI": "10.1146/annurev.es.25.110194.002303",
+        "URL": "https://doi.org/10.1146%2Fannurev.es.25.110194.002303",
+        "author": [
+            {
+                "family": "Wootton",
+                "given": "J T"
+            }
+        ],
+        "container-title": "Annual Review of Ecology and Systematics",
+        "id": "Wootton_1994",
+        "issue": "1",
+        "issued": {
+            "date-parts": [
+                [
+                    1994,
+                    11
+                ]
+            ]
+        },
+        "page": "443-466",
+        "publisher": "Annual Reviews",
+        "title": "The nature and consequences of indirect effects in ecological communities",
+        "type": "article-journal",
+        "volume": "25"
+    },
+    {
+        "author": [
+            {
+                "family": "Dunne",
+                "given": "Jennifer A"
+            }
+        ],
+        "container-title": "Ecological networks: Linking structure to dynamics in food webs",
+        "editor": [
+            {
+                "family": "Dunne",
+                "given": "Jennifer A"
+            },
+            {
+                "family": "Mercedes",
+                "given": "Pascual"
+            }
+        ],
+        "id": "Dunne_2006",
+        "issued": {
+            "date-parts": [
+                [
+                    2006
+                ]
+            ]
+        },
+        "page": "27-86",
+        "publisher": "Oxford University Press,",
+        "title": "The network structure of food webs",
+        "type": "chapter"
+    },
+    {
+        "DOI": "10.1098/rstb.2010.0114",
+        "URL": "https://doi.org/10.1098%2Frstb.2010.0114",
+        "author": [
+            {
+                "family": "Montoya",
+                "given": "Jos\u00e9 M."
+            },
+            {
+                "family": "Raffaelli",
+                "given": "Dave"
+            }
+        ],
+        "container-title": "Philosophical Transactions of the Royal Society B: Biological Sciences",
+        "id": "Montoya_2010",
+        "issue": "1549",
+        "issued": {
+            "date-parts": [
+                [
+                    2010,
+                    7
+                ]
+            ]
+        },
+        "keyword": "Theoretical ecology",
+        "page": "2013-2018",
+        "publisher": "The Royal Society",
+        "title": "Climate change, biotic interactions and ecosystem services",
+        "type": "article-journal",
+        "volume": "365"
+    },
+    {
+        "author": [
+            {
+                "family": "Van Valen",
+                "given": "Leigh"
+            }
+        ],
+        "container-title": "Evol Theory",
+        "id": "Van_Valen_1973",
+        "issued": {
+            "date-parts": [
+                [
+                    1973
+                ]
+            ]
+        },
+        "keyword": "Theoretical ecology",
+        "page": "1-30",
+        "title": "A new evolutionary law",
+        "type": "article-journal",
+        "volume": "1"
+    },
+    {
+        "DOI": "10.4324/9780203509104",
         "author": [
             {
                 "family": "Darwin",
@@ -10,11 +488,12 @@
         "issued": {
             "date-parts": [
                 [
-                    2004
+                    2004,
+                    6
                 ]
             ]
         },
-        "keyword": "Theoretical ecology, Part 1",
+        "keyword": "Theoretical ecology",
         "publisher": "Routledge",
         "title": "On the origin of species, 1859",
         "type": "book"
@@ -957,7 +1436,7 @@
             }
         ],
         "container-title": "Methods in Ecology and Evolution",
-        "id": "Poisot_2015",
+        "id": "Poisot_2016",
         "issue": "3",
         "issued": {
             "date-parts": [
